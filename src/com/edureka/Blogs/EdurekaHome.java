@@ -1,6 +1,7 @@
 package com.edureka.Blogs;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.NoAlertPresentException;
@@ -10,15 +11,20 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 
 public class EdurekaHome {
-
+	
 	Logger logger = LogManager.getLogger(EdurekaHome.class);
+	
 	WebDriver driver;
+	WebDriverWait wait;
 	public EdurekaHome(WebDriver driver)
 	{
 		this.driver = driver;
+		wait=new WebDriverWait(driver, 20);
 	}
 	
 	@FindBy(how = How.XPATH,using = "//*[@id=\"dropdownMenu4\"]")
@@ -35,28 +41,34 @@ public class EdurekaHome {
 	
 	public void clickOnCommunity()
 	{
+	
 		community.click();
+		logger.info("Click on community menu");
 		
 	}
 	public void selectBlogs()
 	{
+		
 		bloglink.click();
+		logger.info("Click on Blogs menu");
 		
 	}
 	public void selectTestingBlog()
 	{
-		System.out.println("Going to find the testing icon web element");
-		navigateToNewWindow();
 		
+		//navigateToNewWindow();
+		logger.info("going to check if this is a alert");
 		try
 		{
-			driver.switchTo().alert();
-			System.out.println("alert exists");
-			driver.switchTo().alert().dismiss();
+			//WebDriverWait wait = new WebDriverWait(driver, 5);
+			Alert alert = wait.until(ExpectedConditions.alertIsPresent());
+			alert.dismiss();
+//			driver.switchTo().alert();
+//			logger.info("alert exists");
+//			driver.switchTo().alert().dismiss();
 		}
 		catch(NoAlertPresentException Ex)
 		{
-			System.out.println("no alert present");
 			logger.info("no alert ");
 		}
 		
@@ -74,39 +86,35 @@ public class EdurekaHome {
 		System.out.println("switching to child window");
 		logger.info("switching to child window");
 		
-//		String MainWindow=driver.getWindowHandle();
-//		 Set<String> s1=driver.getWindowHandles();		
-//	        Iterator<String> i1=s1.iterator();
-//	        while(i1.hasNext())	
-//	        {
-//	        	System.out.println("switching to child window");
-//	        	String ChildWindow=i1.next();		
-//        		
-//	            if(!MainWindow.equalsIgnoreCase(ChildWindow))	            
-//	            	driver.switchTo().window(ChildWindow);	                                                                                                           
-//                                 			
-//	            
-//	        }
 	}
 	
 	public void ScrollDown()
 	{
+		logger.info("waiting for page to load");
+//		try {
 //		String winHandleBefor = driver.getWindowHandle();
 //		driver.switchTo().window(winHandleBefor);
 //		driver.findElement(By.xpath("//button[text()='No thanks']")).click();
-		try {
-			driver.switchTo().frame(0);
-			logger.info("switching to iframe");
-			driver.findElement(By.xpath("//*[@id=\"wzrk-cancel\"]")).click();
-			logger.info("closing iframe");
-		}
-		catch (Exception e) {
-			System.out.println("Unable to locate frame with id " + 0
-					+ e.getStackTrace());
-		} 
+//		}
+//		catch(Exception e)
+//		{
+//			logger.info("exception encountered while switching to window");
+//		}
+//		try {
+//			driver.switchTo().frame(0);
+//			logger.info("switching to iframe");
+//			driver.findElement(By.xpath("//*[@id=\"wzrk-cancel\"]")).click();
+//			logger.info("closing iframe");
+//		}
+//		catch (Exception e) {
+//			System.out.println("exception encountered while switching to framw " 
+//					+ e.getStackTrace());
+//		} 
+		
+		
+		WebElement Element = wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath( "//h3[text()='Software Testing']")));
 			
-	
-		WebElement Element = driver.findElement(By.xpath("//h3[text()='Software Testing']"));
+		//WebElement Element = driver.findElement(By.xpath("//h3[text()='Software Testing']"));
 		JavascriptExecutor js = (JavascriptExecutor) driver;
         js.executeScript("arguments[0].scrollIntoView();", Element);
         Element.click();

@@ -8,6 +8,7 @@ import org.testng.annotations.Test;
 
 import com.edureka.Blogs.EdurekaHome;
 import com.edureka.Blogs.EdurekaLogin;
+import com.edureka.Blogs.EdurekaMyprofile;
 
 public class LogIntoEdureka extends BrowserBasics{
 	
@@ -15,7 +16,7 @@ public class LogIntoEdureka extends BrowserBasics{
 	
 	
 	
-	@Test
+	@Test(priority=1)	
 	public void Init()
 	{
 		try
@@ -37,7 +38,7 @@ public class LogIntoEdureka extends BrowserBasics{
 		
 	}
 	
-	@Test
+	@Test(priority=2)	
 	public void executeOthers()
 	{
 		EdurekaHome eduhome = PageFactory.initElements(driver, EdurekaHome.class); 
@@ -48,6 +49,13 @@ public class LogIntoEdureka extends BrowserBasics{
 		eduhome.selectBlogs();
 		System.out.println("blogs link clicked 2");
 		eduhome.selectTestingBlog();
+	}
+	@Test(enabled=false)
+	public void selectMyprofile()
+	{
+		EdurekaMyprofile myProfile =  PageFactory.initElements(driver, EdurekaMyprofile.class); 
+		myProfile.clickEdureka();
+		myProfile.clickMyprofile();
 	}
 
 }

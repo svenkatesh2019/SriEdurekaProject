@@ -18,3 +18,51 @@
 [INFO ] 2019-12-24 18:31:35.111 [main] EdurekaHome - switching to child window
 [INFO ] 2019-12-24 18:31:35.346 [main] EdurekaHome - no alert 
 [INFO ] 2019-12-24 18:31:35.424 [main] EdurekaHome - switching to iframe
+[INFO ] 2019-12-25 14:08:22.964 [main] EdurekaHome - clicked on my profile name  
+[INFO ] 2019-12-25 14:08:25.545 [main] EdurekaHome - selected My Profile
+[INFO ] 2019-12-25 19:28:23.771 [main] EdurekaHome - edureka123
+[INFO ] 2019-12-25 19:28:24.039 [main] EdurekaHome - seleniumtester2019@outlook.com
+[INFO ] 2019-12-25 19:28:30.414 [main] EdurekaHome - clicked on my profile name  
+[INFO ] 2019-12-25 19:28:32.873 [main] EdurekaHome - selected My Profile
+[INFO ] 2019-12-25 19:36:26.639 [main] EdurekaHome - edureka123
+[INFO ] 2019-12-25 19:36:27.094 [main] EdurekaHome - seleniumtester2019@outlook.com
+[INFO ] 2019-12-25 19:36:27.848 [main] EdurekaHome - Click on community menu
+[INFO ] 2019-12-25 19:36:35.056 [main] EdurekaHome - Click on Blogs menu
+[INFO ] 2019-12-25 19:39:53.578 [main] EdurekaHome - edureka123
+[INFO ] 2019-12-25 19:39:53.931 [main] EdurekaHome - seleniumtester2019@outlook.com
+[INFO ] 2019-12-25 19:39:55.082 [main] EdurekaHome - Click on community menu
+[INFO ] 2019-12-25 19:40:35.222 [main] EdurekaHome - edureka123
+[INFO ] 2019-12-25 19:40:35.490 [main] EdurekaHome - seleniumtester2019@outlook.com
+[INFO ] 2019-12-25 19:40:36.028 [main] EdurekaHome - Click on community menu
+[INFO ] 2019-12-25 19:40:42.384 [main] EdurekaHome - Click on Blogs menu
+[INFO ] 2019-12-25 19:43:50.618 [main] EdurekaHome - edureka123
+[INFO ] 2019-12-25 19:43:50.923 [main] EdurekaHome - seleniumtester2019@outlook.com
+[INFO ] 2019-12-25 19:45:32.277 [main] EdurekaHome - edureka123
+[INFO ] 2019-12-25 19:45:32.559 [main] EdurekaHome - seleniumtester2019@outlook.com
+[INFO ] 2019-12-25 19:45:43.435 [main] EdurekaHome - Click on community menu
+[INFO ] 2019-12-25 19:45:44.092 [main] EdurekaHome - Click on Blogs menu
+[INFO ] 2019-12-25 19:45:44.093 [main] EdurekaHome - waiting for page to load
+[INFO ] 2019-12-25 19:47:57.235 [main] EdurekaHome - edureka123
+[INFO ] 2019-12-25 19:47:57.463 [main] EdurekaHome - seleniumtester2019@outlook.com
+[INFO ] 2019-12-25 19:48:29.491 [main] EdurekaHome - edureka123
+[INFO ] 2019-12-25 19:48:29.697 [main] EdurekaHome - seleniumtester2019@outlook.com
+[INFO ] 2019-12-25 19:48:35.921 [main] EdurekaHome - Click on community menu
+[INFO ] 2019-12-25 19:48:36.402 [main] EdurekaHome - Click on Blogs menu
+[INFO ] 2019-12-25 19:48:36.403 [main] EdurekaHome - waiting for page to load
+[INFO ] 2019-12-25 19:48:46.519 [main] EdurekaHome - exception encountered while switching to window
+[INFO ] 2019-12-25 19:50:34.984 [main] EdurekaHome - edureka123
+[INFO ] 2019-12-25 19:50:35.222 [main] EdurekaHome - seleniumtester2019@outlook.com
+[INFO ] 2019-12-25 19:50:59.815 [main] EdurekaHome - edureka123
+[INFO ] 2019-12-25 19:51:00.042 [main] EdurekaHome - seleniumtester2019@outlook.com
+[INFO ] 2019-12-25 19:51:05.709 [main] EdurekaHome - Click on community menu
+[INFO ] 2019-12-25 19:51:06.260 [main] EdurekaHome - Click on Blogs menu
+[INFO ] 2019-12-25 19:51:06.261 [main] EdurekaHome - waiting for page to load
+[INFO ] 2019-12-25 19:51:06.553 [main] EdurekaHome - switching to iframe
+[INFO ] 2019-12-25 19:56:35.029 [main] EdurekaHome - edureka123
+[INFO ] 2019-12-25 19:56:35.277 [main] EdurekaHome - seleniumtester2019@outlook.com
+[INFO ] 2019-12-25 19:56:41.250 [main] EdurekaHome - Click on community menu
+[INFO ] 2019-12-25 19:59:08.414 [main] EdurekaHome - edureka123
+[INFO ] 2019-12-25 19:59:08.685 [main] EdurekaHome - seleniumtester2019@outlook.com
+[INFO ] 2019-12-25 19:59:14.843 [main] EdurekaHome - Click on community menu
+[INFO ] 2019-12-25 19:59:15.198 [main] EdurekaHome - Click on Blogs menu
+[INFO ] 2019-12-25 19:59:15.198 [main] EdurekaHome - going to check if this is a alert

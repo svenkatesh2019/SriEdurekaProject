@@ -16,9 +16,9 @@ public class EdurekaMyprofile {
 		this.driver = driver;
 	}
 	
-	@FindBy(how = How.XPATH,using = "//*[@id=\"header-II\"]/section/nav/div/ul[2]/li[2]/a/span")
+	@FindBy(how = How.XPATH,using = "//span[@class='webinar-profile-name']")
 	@CacheLookup
-	WebElement edurekaBtn;
+	WebElement profileName;
 		
 	
 	@FindBy(how = How.XPATH,using = "//a[text()='My Profile']")
@@ -27,15 +27,18 @@ public class EdurekaMyprofile {
 	
 	public void clickEdureka()
 	{
-		edurekaBtn.click();
+		profileName.click();
+		logger.info("clicked on my profile name  ");
 	}
 	public void clickMyprofile()
 	{
+		profile.click();
+		logger.info("selected My Profile");
 		
 	}
 	public void updateProfessionalDetails()
 	{
-		profile.click();
+		
 	}
 	public void careerInterests()
 	{

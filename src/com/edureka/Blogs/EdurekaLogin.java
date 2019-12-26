@@ -2,19 +2,26 @@ package com.edureka.Blogs;
 
 import java.util.concurrent.TimeUnit;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class EdurekaLogin {
 	public WebDriver driver ;
+	public WebDriverWait wait;
+	public Logger logger = LogManager.getLogger(EdurekaHome.class);
 	
 	public EdurekaLogin(WebDriver driver)
 	{
 		this.driver = driver;
+		wait=new WebDriverWait(driver, 20);
 	}
 	//first login button in edureka page
 	@FindBy(how = How.XPATH,using = "//a[text()='Log In']")
@@ -43,22 +50,28 @@ public class EdurekaLogin {
 	}
 	public void setEmail(String email) throws InterruptedException
 	{
-		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-		emailtxtbox.sendKeys(email);
-		//driver.findElement(By.xpath("//*[@id=\"si_popup_email\"]")).sendKeys(email);
-		Thread.sleep(3000);
+		//driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+		logger.info(email);
+		System.out.println(email);
+		WebElement emailElement = wait.until(ExpectedConditions.visibilityOf(emailtxtbox));
+			
+		emailElement.sendKeys(email);
+				
 		
 	}
 	public void setPassword(String pwd) throws Exception
 	{
-		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-		passwordTxtbox.sendKeys(pwd);
-		Thread.sleep(3000);
+		//driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+		logger.info(pwd);
+		System.out.println(pwd);
+		WebElement pwdElement = wait.until(ExpectedConditions.visibilityOf(passwordTxtbox));
+		pwdElement.sendKeys(pwd);
+		
 	}
 	public void clickSecondLoginBtn() throws InterruptedException
 	{
 		nextLoginBtn.click();
-		Thread.sleep(3000);
+		
 		
 	}
 }
