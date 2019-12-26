@@ -184,7 +184,7 @@ public class GenericMethods {
 //				JavascriptExecutor js = (JavascriptExecutor) driver;
 //	       		js.executeScript("arguments[0].scrollIntoView();", Element);
 //				Element.click();
-			Thread.sleep(4000);
+			//Thread.sleep(4000);
 			driver.findElement(By.xpath(Value)).click();
 							 
 			}
@@ -215,7 +215,7 @@ public class GenericMethods {
 				System.out.println("verified nothing in my wishlist");
 				driver.findElement(By.xpath("//span[@class='webinar-profile-name']")).click();
 				System.out.println("clicked my profile to log out");
-				WebDriverWait wait = new WebDriverWait(driver, 120);
+				WebDriverWait wait = new WebDriverWait(driver, 20);
 				wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//*[@id=\"header-II\"]/section/nav/div/ul[2]/li[2]/ul/li[12]/a"))).click();
 				System.out.println("logged out");
 				break;

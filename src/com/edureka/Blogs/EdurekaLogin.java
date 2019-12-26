@@ -16,7 +16,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 public class EdurekaLogin {
 	public WebDriver driver ;
 	public WebDriverWait wait;
-	public Logger logger = LogManager.getLogger(EdurekaHome.class);
+	Logger logger = LogManager.getLogger(EdurekaHome.class);
 	
 	public EdurekaLogin(WebDriver driver)
 	{
