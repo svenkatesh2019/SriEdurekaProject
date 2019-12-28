@@ -70,7 +70,15 @@ public class EdurekaLogin {
 	}
 	public void clickSecondLoginBtn() throws InterruptedException
 	{
+		try
+		{
 		nextLoginBtn.click();
+		logger.info("next login button clicked");
+		}
+		catch(Exception ex)
+		{
+			ex.printStackTrace();
+		}
 		
 		
 	}

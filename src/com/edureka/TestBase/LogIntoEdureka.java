@@ -25,9 +25,6 @@ public class LogIntoEdureka extends BrowserBasics{
 			
 			
 		eduLogin.clickFirstLoginBtn();
-		
-//		eduLogin.setPassword("edureka123");
-//		eduLogin.setEmail("seleniumtester2019@outlook.com");
 		eduLogin.setPassword("Andal@16");
 		eduLogin.setEmail("sud.v@hotmail.com");
 		eduLogin.clickSecondLoginBtn();
@@ -40,19 +37,18 @@ public class LogIntoEdureka extends BrowserBasics{
 		
 	}
 	
-	@Test(enabled = false)	
+	@Test(priority=2,enabled = true)	
 	public void executeOthers()
 	{
 		EdurekaHome eduhome = PageFactory.initElements(driver, EdurekaHome.class); 
-		Assert.assertEquals(driver.getTitle(), expectedMessage);
-		
 		eduhome.clickOnCommunity();
-		System.out.println("community link clicked 2");
 		eduhome.selectBlogs();
-		System.out.println("blogs link clicked 2");
 		eduhome.selectTestingBlog();
+		eduhome.selectSeleniumInterview();
+		eduhome.exploreBlog();
+		eduhome.closeBlogs();
 	}
-	@Test(priority=2,enabled=true)
+	@Test(enabled=false)
 	public void selectMyprofile() throws Exception
 	{
 		EdurekaMyprofile myProfile =  PageFactory.initElements(driver, EdurekaMyprofile.class); 

@@ -29,11 +29,11 @@ public class EdurekaHome {
 		wait=new WebDriverWait(driver, 20);
 	}
 	
-	@FindBy(how = How.XPATH,using = "//*[@id=\"dropdownMenu4\"]")
+	@FindBy(how = How.XPATH,using = "//button[contains(text(),'Community')]")
 	@CacheLookup
 	WebElement community;
 	
-	@FindBy(how = How.XPATH,using = "//*[@id=\"navbar\"]/ul/li[4]/div/ul/li[2]/a")
+	@FindBy(how = How.XPATH,using = "//a[text()='Blog']")
 	@CacheLookup
 	WebElement bloglink;
 	
@@ -43,83 +43,119 @@ public class EdurekaHome {
 	
 	public void clickOnCommunity()
 	{
-	
+	 try {
+		 logger.info("Click on community menu");
 		community.click();
-		logger.info("Click on community menu");
+		
+	 }
+	 catch(Exception e)
+		{
+			e.printStackTrace();
+		}
 		
 	}
 	public void selectBlogs()
 	{
-		
+		try {
 		bloglink.click();
 		logger.info("Click on Blogs menu");
+		}
+		 catch(Exception e)
+		{
+			e.printStackTrace();
+		}
 		
+	}
+	public void selectSeleniumInterview()
+	{
+		try {
+			WebElement ele = wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath( "//a[contains(text(),'Top Selenium')]")));
+	        ele.click();
+	        logger.info("clicked on the selenium interview Qs icon  ");
+			}
+	       
+		catch(Exception e)
+		{
+			logger.info("exception encountered while navigating to testing blogs page");
+		}
+	}
+	
+	public void exploreBlog()
+	{
+		try
+		{
+			WebElement element = driver.findElement(By.xpath("//span[contains(text(),'Questions on ')]"));
+			JavascriptExecutor js = (JavascriptExecutor) driver;
+	        js.executeScript("arguments[0].scrollIntoView();", element);
+	        logger.info("scrolled down the selenium interview questions Blog ");
+		}
+	       
+		catch(Exception e)
+		{
+			logger.info("exception encountered while scrolling down the selenium interview questions Blog");
+		}
+		
+	}
+	
+	public void closeBlogs()
+	{
+		driver.close();
+		logger.info("closed blogs");
 	}
 	public void selectTestingBlog()
 	{
-		
-		//navigateToNewWindow();
-		logger.info("going to check if this is a alert");
-		try
-		{
-			//WebDriverWait wait = new WebDriverWait(driver, 5);
-			Alert alert = wait.until(ExpectedConditions.alertIsPresent());
-			alert.dismiss();
-//			driver.switchTo().alert();
-//			logger.info("alert exists");
-//			driver.switchTo().alert().dismiss();
+		try {
+			closeWindowPopup();
+			ScrollDown();
+			String strExpected= "Software Testing Blogs | Learn About Software Testing - Edureka";
+			String strActual = driver.getTitle();
+			if (strExpected.equals(strActual))
+			{
+				logger.info("navigated to the Testing blogs page");
+			}
+			else
+			{
+				logger.info("error navigating to Testing blogs page");
+			}
 		}
-		catch(NoAlertPresentException Ex)
+		catch(Exception e)
 		{
-			logger.info("no alert ");
+			logger.info("exception encountered while navigating to testing blogs page");
 		}
-		
-		
-		//testingLink.click();
-		ScrollDown();
-		logger.info("software testing icon clicked");
-		System.out.println("software testing icon clicked");
 	}
 	
-	public void navigateToNewWindow()
+	public void closeWindowPopup()
 	{
-		String winHandleBefore = driver.getWindowHandle();
-		driver.switchTo().window(winHandleBefore);
-		System.out.println("switching to child window");
-		logger.info("switching to child window");
+		try {
+			String winHandleBefor = driver.getWindowHandle();
+			driver.switchTo().window(winHandleBefor);
+			logger.info("switched to pop up window");
+			driver.findElement(By.xpath("//button[text()='No thanks']")).click();
+			logger.info("clicked 'No thanks button in pop up window");
+			}
+			catch(Exception e)
+			{
+				logger.info("exception encountered while switching to pop up window");
+			}
 		
 	}
 	
 	public void ScrollDown()
-	{
-		logger.info("waiting for page to load");
-//		try {
-//		String winHandleBefor = driver.getWindowHandle();
-//		driver.switchTo().window(winHandleBefor);
-//		driver.findElement(By.xpath("//button[text()='No thanks']")).click();
-//		}
-//		catch(Exception e)
-//		{
-//			logger.info("exception encountered while switching to window");
-//		}
-//		try {
-//			driver.switchTo().frame(0);
-//			logger.info("switching to iframe");
-//			driver.findElement(By.xpath("//*[@id=\"wzrk-cancel\"]")).click();
-//			logger.info("closing iframe");
-//		}
-//		catch (Exception e) {
-//			System.out.println("exception encountered while switching to framw " 
-//					+ e.getStackTrace());
-//		} 
-		
-		
-		WebElement Element = wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath( "//h3[text()='Software Testing']")));
-			
-		//WebElement Element = driver.findElement(By.xpath("//h3[text()='Software Testing']"));
-		JavascriptExecutor js = (JavascriptExecutor) driver;
-        js.executeScript("arguments[0].scrollIntoView();", Element);
-        Element.click();
+	{	
+		try
+		{
+		WebElement element =driver.findElement(By.xpath("//h3[text()='Software Testing']"));
+//		JavascriptExecutor js = (JavascriptExecutor) driver;
+//        js.executeScript("arguments[0].scrollIntoView();", element);
+//        logger.info("scrolled down to view software testing icon ");
+        element.click();
+        logger.info("clicked on the Testing object ");
+		}
+		catch(Exception e)
+		{
+			logger.info("exception encountered while clicking Testing object");
+		}
+        
         
 	}
 	
