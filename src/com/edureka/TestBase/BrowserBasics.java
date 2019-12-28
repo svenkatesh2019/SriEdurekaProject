@@ -41,7 +41,7 @@ public class BrowserBasics {
 	@AfterSuite
 	public void CloseBrowser()
 	{
-		driver.close();
+		//driver.close();
 	}
 
 

@@ -14,6 +14,8 @@ import org.openqa.selenium.support.How;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
+import com.edureka.TestBase.BrowserBasics;
+
 
 public class EdurekaHome {
 	
@@ -21,9 +23,9 @@ public class EdurekaHome {
 	
 	WebDriver driver;
 	WebDriverWait wait;
-	public EdurekaHome(WebDriver driver)
+	public EdurekaHome()
 	{
-		this.driver = driver;
+		this.driver = BrowserBasics.driver;
 		wait=new WebDriverWait(driver, 20);
 	}
 	
