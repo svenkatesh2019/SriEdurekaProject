@@ -8,6 +8,7 @@ import org.testng.annotations.Test;
 
 import com.edureka.Blogs.EdurekaHome;
 import com.edureka.Blogs.EdurekaLogin;
+import com.edureka.MyCourses.EnrollCourses;
 import com.edureka.MyProfile.EdurekaMyprofile;
 
 public class LogIntoEdureka extends BrowserBasics{
@@ -25,8 +26,9 @@ public class LogIntoEdureka extends BrowserBasics{
 			
 			
 		eduLogin.clickFirstLoginBtn();
-		eduLogin.setPassword("Andal@16");
 		eduLogin.setEmail("sud.v@hotmail.com");
+		eduLogin.setPassword("Edureka1234");
+		
 		eduLogin.clickSecondLoginBtn();
 		
 		}
@@ -48,7 +50,7 @@ public class LogIntoEdureka extends BrowserBasics{
 		eduhome.exploreBlog();
 		eduhome.closeBlogs();
 	}
-	@Test(priority = 3,enabled=true)
+	@Test(priority = 3,enabled=false)
 	public void selectMyprofile() throws Exception
 	{
 		EdurekaMyprofile myProfile =  PageFactory.initElements(driver, EdurekaMyprofile.class); 
@@ -57,6 +59,13 @@ public class LogIntoEdureka extends BrowserBasics{
 		myProfile.navigateToDetailspage();
 		myProfile.updateProfileDetails();
 		myProfile.ProfessionalDetails();
+	}
+	
+	@Test(priority = 4,enabled=true)
+	public void checkForMycourses()
+	{
+		EnrollCourses enroll = PageFactory.initElements(driver, EnrollCourses.class); 
+		enroll.checkEnrolledCourses();
 	}
 
 }

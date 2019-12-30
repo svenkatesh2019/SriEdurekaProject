@@ -46,13 +46,13 @@ public class EdurekaLogin {
 	public void clickFirstLoginBtn()
 	{
 		firstLogin.click();
-		System.out.println("first login btn clicked");
+		
 	}
 	public void setEmail(String email) throws InterruptedException
 	{
 		//driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		logger.info(email);
-		System.out.println(email);
+		
 		WebElement emailElement = wait.until(ExpectedConditions.visibilityOf(emailtxtbox));
 			
 		emailElement.sendKeys(email);
@@ -63,7 +63,6 @@ public class EdurekaLogin {
 	{
 		//driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		logger.info(pwd);
-		System.out.println(pwd);
 		WebElement pwdElement = wait.until(ExpectedConditions.visibilityOf(passwordTxtbox));
 		pwdElement.sendKeys(pwd);
 		

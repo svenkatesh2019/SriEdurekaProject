@@ -5,7 +5,7 @@
     <classes>
       <class name="com.edureka.TestBase.LogIntoEdureka">
         <methods>
-          <include name="selectMyprofile"/>
+          <include name="checkForMycourses"/>
           <include name="CloseBrowser"/>
         </methods>
       </class> <!-- com.edureka.TestBase.LogIntoEdureka -->

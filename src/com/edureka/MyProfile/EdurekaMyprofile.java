@@ -19,14 +19,10 @@ import com.edureka.Blogs.EdurekaHome;
 import com.edureka.TestBase.BrowserBasics;
 
 public class EdurekaMyprofile {
-	Logger logger = LogManager.getLogger(EdurekaHome.class);
-	WebDriver driver ;
-	public WebDriverWait wait;
-	public EdurekaMyprofile()
-	{
-		this.driver = BrowserBasics.driver;
-		wait=new WebDriverWait(driver, 20);
-	}
+
+	Logger logger = LogManager.getLogger(EdurekaMyprofile.class);
+	WebDriver driver;
+	WebDriverWait wait;
 	
 	@FindBy(how = How.XPATH,using = "//span[@class='user_name']")
 	@CacheLookup
