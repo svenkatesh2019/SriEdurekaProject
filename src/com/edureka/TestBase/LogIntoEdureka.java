@@ -1,11 +1,8 @@
 package com.edureka.TestBase;
 
-import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.support.PageFactory;
-import org.testng.Assert;
 import org.testng.annotations.Test;
-
 import com.edureka.Blogs.EdurekaHome;
 import com.edureka.Blogs.EdurekaLogin;
 import com.edureka.MyCourses.EnrollCourses;
@@ -26,8 +23,9 @@ public class LogIntoEdureka extends BrowserBasics{
 			
 			
 		eduLogin.clickFirstLoginBtn();
-		eduLogin.setEmail("sud.v@hotmail.com");
 		eduLogin.setPassword("Edureka1234");
+		eduLogin.setEmail("sud.v@hotmail.com");
+		
 		
 		eduLogin.clickSecondLoginBtn();
 		
@@ -50,7 +48,7 @@ public class LogIntoEdureka extends BrowserBasics{
 		eduhome.exploreBlog();
 		eduhome.closeBlogs();
 	}
-	@Test(priority = 3,enabled=false)
+	@Test(priority = 3,enabled=true)
 	public void selectMyprofile() throws Exception
 	{
 		EdurekaMyprofile myProfile =  PageFactory.initElements(driver, EdurekaMyprofile.class); 

@@ -15,14 +15,20 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-import com.edureka.Blogs.EdurekaHome;
 import com.edureka.TestBase.BrowserBasics;
 
 public class EdurekaMyprofile {
-
+	
 	Logger logger = LogManager.getLogger(EdurekaMyprofile.class);
 	WebDriver driver;
 	WebDriverWait wait;
+	
+	public EdurekaMyprofile()
+	{
+		this.driver = BrowserBasics.driver;
+		wait=new WebDriverWait(driver, 20);
+	}
+
 	
 	@FindBy(how = How.XPATH,using = "//span[@class='user_name']")
 	@CacheLookup
@@ -90,6 +96,23 @@ public class EdurekaMyprofile {
 	@CacheLookup
 	WebElement nextpageBtn;
 	
+	@FindBy(how = How.NAME,using = "lastDrawnSalaryUS")
+	@CacheLookup
+	WebElement expectedCTC;
+	
+	@FindBy(how = How.XPATH,using = "//input[@name='preferredlocation' and @value='true']")
+	@CacheLookup
+	WebElement relocateChoice;
+	
+	@FindBy(how = How.NAME,using = "preferredCity")
+	@CacheLookup
+	WebElement cityName;
+	
+	@FindBy(how = How.XPATH,using = "//button[text()='Save' and @class='btn pull-right onboarding-primary-button']")
+	@CacheLookup
+	WebElement save;
+	
+	
 	public void clickEdureka()
 	{
 		profileName.click();
@@ -109,10 +132,9 @@ public class EdurekaMyprofile {
 	public void updateProfileDetails() throws InterruptedException
 	{
 		try {
+			
 			wait.until(ExpectedConditions.invisibilityOfElementLocated(By.xpath("//span[contains(text(),'Ensure that your mobile number')]")));
 			logger.info("elements  found ");
-			//wait.until(ExpectedConditions.visibilityOfElementLocated(currentRole);
-			//WebElement currentRole = driver.findElement(By.xpath("//input[@formcontrolname='currentrole']"));
 			
 			currentRole.clear();
 			logger.info("cleared textbox ");
@@ -155,8 +177,12 @@ public class EdurekaMyprofile {
 			setSkillSet();
 			//UploadResume();
 			navigateToNextPage();
-			//skipCareerInterests();
-			retryingFindClick();
+			setExpectedCTC();
+			setWillingToRelocate();
+			setPreferredCity();
+			skipCareerInterests();
+			clickSaveOnLastPage();
+			
 			
 			
 		}
@@ -166,41 +192,129 @@ public class EdurekaMyprofile {
 		}
 				
 	}
+	private void clickSaveOnLastPage() {
+		try {
+			save.click();
+			logger.info("clicked on Save button on the last page");
+		}
+		catch(Exception ex)
+		{
+			logger.info("error while clicking Save button on the last page");
+			ex.printStackTrace();
+		}
+			
+		
+	}
+	private void setPreferredCity() {
+		try
+		{
+			cityName.clear();
+			cityName.sendKeys("NORWAY");
+			logger.info("updated 'preferred city' textbox ");
+			wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//span[@class='changes-saved']")));
+		}
+		catch(Exception ex)
+		{
+			logger.info("error while updating Willingto reclocate radio button in career interests page");
+			ex.printStackTrace();
+		}
+			
+		
+	}
+	private void setWillingToRelocate() {
+		try
+		{
+			relocateChoice.click();
+			logger.info("updated 'willing to relcate' radio button ");
+			wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//span[@class='changes-saved']")));
+		}
+		catch(Exception ex)
+		{
+			logger.info("error while updating Willingto reclocate radio button in career interests page");
+			ex.printStackTrace();
+		}
+				
+		
+	}
+	private void setExpectedCTC() {
+		try {
+			Select selectSalary = new Select(expectedCTC);
+			
+			selectSalary.selectByValue("$100K-$125k");
+			
+			logger.info("updated expected CTC ");
+			
+		}
+		catch(Exception ex)
+		{
+			logger.info("error while updating expectedCTC drop down in career interests page");
+			ex.printStackTrace();
+		}
+		
+	}
 	public void selectCompany()
 	{
-		companyName.clear();
-		companyName.sendKeys("DUMMY INC");
-		logger.info("updated current company name  ");
-		wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//span[@class='changes-saved']")));
-		logger.info("changes saved message dispayed ");
+		try
+		{
+			companyName.clear();
+			companyName.sendKeys("DUMMY INC");
+			logger.info("updated current company name  ");
+			wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//span[@class='changes-saved']")));
+			logger.info("changes saved message dispayed ");
+		}
+				catch(Exception ex)
+				{
+					logger.info("error while updating current company name in professional details page");
+					ex.printStackTrace();
+				}
 	}
 	
 	public void selectcurrentJob()
 	{
+		try {
 		Select joblevel_dropdown = new Select(jobLevel);
 		
 		joblevel_dropdown.selectByVisibleText("Senior Management");
 		
 		logger.info("updated current job level");
 		wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//span[@class='changes-saved']")));
+		}
+		catch(Exception ex)
+		{
+			logger.info("error while updating current job level drop-down in professional details page");
+			ex.printStackTrace();
+		}
 	}
 	
 	public void selectCurrentIndustry()
 	{
+		try {
 		Select selectindustry = new Select(industry);
 	
 		selectindustry.selectByValue("Banking / Financial Services / Broking");
 		
 		logger.info("updated current idustry sector");
 		wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//span[@class='changes-saved']")));
+		}catch(Exception ex)
+		{
+			logger.info("error while updating Industry drop-down in professional details page");
+			ex.printStackTrace();
+		}
 		
 	}
 	public void setLinkedInProfile()
 	{
+		try {
 		linkedinProfile.clear();
 		linkedinProfile.sendKeys("https://www.linkedin.com/in/sridevivenkatesh/");
 		logger.info("updated linkedin profile ");
 		//wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//span[@class='changes-saved']")));
+		}
+		catch(Exception ex)
+		{
+			logger.info("error while updating LinkedIn textbox in professional details page");
+			ex.printStackTrace();
+		}
 	}
 	public void setSkillSet()
 	{
@@ -221,12 +335,15 @@ public class EdurekaMyprofile {
 	{
 		try
 		{
-//		driver.switchTo().frame("wiz-iframe-intent");
-//		logger.info("switched to iframe");
-//		driver.findElement(By.xpath("//a[contains(text(),'Ok, got')]")).click();
-//		logger.info("clicked OK got it button");
-		nextBtn.click();
-		logger.info("clicked Next button");
+			if(framePopsUp())
+			{
+				driver.switchTo().frame("wiz-iframe-intent");
+				logger.info("switched to iframe");
+				driver.findElement(By.xpath("//a[contains(text(),'Ok, got')]")).click();
+				logger.info("clicked OK got it button");
+			}
+				nextBtn.click();
+				logger.info("clicked Next button");
 		}
 		catch(Exception ex)
 		{
@@ -236,6 +353,23 @@ public class EdurekaMyprofile {
 		//driver.switchTo().defaultContent();
 	}
 	
+	private boolean framePopsUp() {
+		boolean framePopsup=true;
+		try {
+			driver.switchTo().frame(0);
+			driver.switchTo().defaultContent();
+			logger.info("returned to parent frame---frame exists and need to close the frame first");
+			
+			
+		}catch(Exception ex)
+		{
+			logger.info("frame does not exist");
+			ex.printStackTrace();
+			framePopsup = false;
+		}
+		
+		return framePopsup;
+	}
 	public void UploadResume()
 	{
 		try
@@ -267,14 +401,14 @@ public class EdurekaMyprofile {
 		}
 		catch(Exception e)
 		{
-			logger.info("error while skipping career interests page");
+			logger.info("error ------ skipping career interests page");
 			e.printStackTrace();
 		
 		}
 	}
 	
 	
-	
+	//this method is **NOT** used
 	public boolean retryingFindClick() {
 	    boolean result = false;
 	    int attempts = 0;

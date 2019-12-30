@@ -1,7 +1,5 @@
 package com.edureka.MyCourses;
 
-import java.util.Iterator;
-import java.util.List;
 import java.util.NoSuchElementException;
 
 import org.apache.logging.log4j.LogManager;
@@ -13,7 +11,6 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
-import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import com.edureka.Blogs.EdurekaHome;
@@ -33,7 +30,7 @@ public class EnrollCourses {
 	}
 	
 	
-	@FindBy(how = How.XPATH,using = "//a[contains(text(),'My Courses')]")
+	@FindBy(how = How.XPATH,using = "//button[@class='dropdown-toggle' and contains(text(),'Courses')]")
 	@CacheLookup
 	WebElement myCourses;
 	
@@ -63,9 +60,26 @@ public class EnrollCourses {
 	@CacheLookup
 	WebElement otherFilters;
 	
+	@FindBy(how = How.XPATH,using = "//a[contains(text(),'My Classroom') and @href='/mycourses']")
+	@CacheLookup
+	WebElement myClassRoom;
+	
+	@FindBy(how = How.ID,using = "jobRoleSearchInpDesktop")
+	@CacheLookup
+	WebElement searchBox;
+
+	@FindBy(how = How.XPATH,using = "//label[@for='_Test_Automation_Engineer_']")
+	@CacheLookup
+	WebElement jobroleChoice;
+	
+	@FindBy(how = How.XPATH,using = "//label[text()='Weekend']")
+	@CacheLookup
+	WebElement batchTypeChoice;
+	
 	public void checkEnrolledCourses()
 	{
-		//checkMyCourses();
+		checkMyCourses();
+		goToMyClassroom();
 		checkPage();
 		if(checkIfOngoingCourses())
 			logger.info("you have enrolled in a course");
@@ -75,17 +89,29 @@ public class EnrollCourses {
 		setJobRoleFilter();
 		selectRoleType();
 		setOtherFilters();
-		logout();
+		setBatchType();
+		//logout();
+	}
+
+	private void goToMyClassroom() {
+		try {
+			myClassRoom.click();
+			logger.info("clicked on 'MyClassroom' in'courses' drop-down");
+		}
+		catch(Exception ex)
+		{
+			logger.info("error clicking on 'MyClassroom' in'courses' drop-down");
+			ex.printStackTrace();
+		}
 	}
 
 	private void selectRoleType() {
 		try
 		{
-			WebElement element =driver.findElement(By.xpath("//label[@for='_Test_Automation_Engineer_']"));
-//			JavascriptExecutor js = (JavascriptExecutor) driver;
-//			 js.executeScript("arguments[0].scrollIntoView();", element);
-//			logger.info("scrolled down to view Test Automation engineer ");
-			element.click();
+			
+			searchBox.sendKeys("automation");
+			logger.info("entered the text 'automation' in search box");
+			jobroleChoice.click();
 			logger.info("selected Test Automation Engineer ");
 						
 		}
@@ -106,6 +132,17 @@ public class EnrollCourses {
 		catch(Exception ex)
 		{
 			logger.info("error clicking on 'Other Filters'  Filter");
+			ex.printStackTrace();
+		}
+	}
+	private void setBatchType() {
+		try {
+			batchTypeChoice.click();
+			logger.info("batch type in 'Other Filters' drop-down selected");
+		}
+		catch(Exception ex)
+		{
+			logger.info("error selecting batch type in 'Other Filters' drop-down");
 			ex.printStackTrace();
 		}
 	}
@@ -153,10 +190,10 @@ public class EnrollCourses {
 		try
 		{
 			myCourses.click();
-			logger.info("clicked 'MyCourses' menu");
+			logger.info("clicked 'Courses' drop-down");
 		}catch(Exception ex)
 		{
-			logger.info("error going to 'My courses' page");
+			logger.info("error going to 'Courses' drop-down");
 			ex.printStackTrace();
 		}
 		
