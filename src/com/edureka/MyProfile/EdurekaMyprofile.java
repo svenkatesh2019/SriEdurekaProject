@@ -1,9 +1,10 @@
-package com.edureka.Blogs;
+package com.edureka.MyProfile;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
+import org.openqa.selenium.StaleElementReferenceException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
@@ -14,6 +15,7 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
+import com.edureka.Blogs.EdurekaHome;
 import com.edureka.TestBase.BrowserBasics;
 
 public class EdurekaMyprofile {
@@ -84,6 +86,13 @@ public class EdurekaMyprofile {
 	@CacheLookup
 	WebElement nextBtn;
 	
+	@FindBy(how = How.XPATH,using = "//input[@type='file']")
+	@CacheLookup
+	WebElement fileIcon;
+	
+	@FindBy(how = How.XPATH,using = "//button[text()='Next']")
+	@CacheLookup
+	WebElement nextpageBtn;
 	
 	public void clickEdureka()
 	{
@@ -148,7 +157,11 @@ public class EdurekaMyprofile {
 			selectCurrentIndustry();
 			setLinkedInProfile();
 			setSkillSet();
+			//UploadResume();
 			navigateToNextPage();
+			//skipCareerInterests();
+			retryingFindClick();
+			
 			
 		}
 		catch(Exception ex)
@@ -195,19 +208,97 @@ public class EdurekaMyprofile {
 	}
 	public void setSkillSet()
 	{
+		try
+		{
 		skills.clear();
 		skills.sendKeys("ETL, Testing,Selenium webdriver ");
 		logger.info("updated skill set");
 		wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//span[@class='changes-saved']")));
+		}
+		catch(Exception ex)
+		{
+			logger.info("error while updating skill set");
+			ex.printStackTrace();
+		}
 	}
 	public void navigateToNextPage()
 	{
-		driver.switchTo().frame("wiz-iframe-intent");
-		logger.info("switched to iframe");
-		driver.findElement(By.xpath("//a[contains(text(),'Ok, got')]")).click();
-		logger.info("clicked OK got it button");
+		try
+		{
+//		driver.switchTo().frame("wiz-iframe-intent");
+//		logger.info("switched to iframe");
+//		driver.findElement(By.xpath("//a[contains(text(),'Ok, got')]")).click();
+//		logger.info("clicked OK got it button");
 		nextBtn.click();
 		logger.info("clicked Next button");
+		}
+		catch(Exception ex)
+		{
+			logger.info("error while navigating to next page after updating professional details");
+			ex.printStackTrace();
+		}
 		//driver.switchTo().defaultContent();
 	}
+	
+	public void UploadResume()
+	{
+		try
+		{
+//			Actions action = new Actions(driver);
+//			action.doubleClick(fileIcon).perform();
+			fileIcon.click();
+			logger.info("clicked resume button");						
+			Runtime.getRuntime().exec("C:\\Users\\sudv\\Documents\\Edureka Project\\resume.exe");
+			logger.info("ran autoit to attach resume");
+			
+		}
+		catch(Exception e)
+		{
+			logger.info("did not attach the file ");
+			e.printStackTrace();
+		
+		}
+	}
+	
+	public void skipCareerInterests()
+	{
+		try {
+			
+			
+			wait.ignoring(StaleElementReferenceException.class).until(ExpectedConditions.elementToBeClickable(nextpageBtn));
+			nextpageBtn.click();
+			logger.info("clicked 'Next' button in Career interests page");
+		}
+		catch(Exception e)
+		{
+			logger.info("error while skipping career interests page");
+			e.printStackTrace();
+		
+		}
+	}
+	
+	
+	
+	public boolean retryingFindClick() {
+	    boolean result = false;
+	    int attempts = 0;
+	    while(attempts < 10) {
+	        try {
+	            nextpageBtn.click();
+	            result = true;
+	            logger.info("clicked the correct element");
+	            break;
+	        } catch(StaleElementReferenceException e) {
+	        	logger.info("error while skipping career interests page");
+				e.printStackTrace();
+	        }
+	        attempts++;
+	    }
+	    return result;
+	}
+	
+	
+	
+	
+	
 }

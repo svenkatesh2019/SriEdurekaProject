@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 
 import com.edureka.Blogs.EdurekaHome;
 import com.edureka.Blogs.EdurekaLogin;
-import com.edureka.Blogs.EdurekaMyprofile;
+import com.edureka.MyProfile.EdurekaMyprofile;
 
 public class LogIntoEdureka extends BrowserBasics{
 	
@@ -37,7 +37,7 @@ public class LogIntoEdureka extends BrowserBasics{
 		
 	}
 	
-	@Test(priority=2,enabled = true)	
+	@Test(priority=2,enabled = false)	
 	public void executeOthers()
 	{
 		EdurekaHome eduhome = PageFactory.initElements(driver, EdurekaHome.class); 
@@ -48,7 +48,7 @@ public class LogIntoEdureka extends BrowserBasics{
 		eduhome.exploreBlog();
 		eduhome.closeBlogs();
 	}
-	@Test(enabled=false)
+	@Test(priority = 3,enabled=true)
 	public void selectMyprofile() throws Exception
 	{
 		EdurekaMyprofile myProfile =  PageFactory.initElements(driver, EdurekaMyprofile.class); 

@@ -775,3 +775,337 @@
 [INFO ] 2019-12-27 22:24:51.791 [main] EdurekaHome - clicked on the selenium interview Qs icon  
 [INFO ] 2019-12-27 22:24:51.850 [main] EdurekaHome - scrolled down the selenium interview questions Blog 
 [INFO ] 2019-12-27 22:24:55.972 [main] EdurekaHome - closed blogs
+[INFO ] 2019-12-29 22:16:26.569 [main] EdurekaHome - Andal@16
+[INFO ] 2019-12-29 22:16:26.857 [main] EdurekaHome - sud.v@hotmail.com
+[INFO ] 2019-12-29 22:16:27.232 [main] EdurekaHome - next login button clicked
+[INFO ] 2019-12-29 22:16:27.249 [main] EdurekaHome - Click on community menu
+[INFO ] 2019-12-29 22:16:33.485 [main] EdurekaHome - Click on Blogs menu
+[INFO ] 2019-12-29 22:16:33.501 [main] EdurekaHome - switched to pop up window
+[INFO ] 2019-12-29 22:16:33.825 [main] EdurekaHome - clicked 'No thanks button in pop up window
+[INFO ] 2019-12-29 22:16:36.437 [main] EdurekaHome - clicked on the Testing object 
+[INFO ] 2019-12-29 22:16:36.445 [main] EdurekaHome - navigated to the Testing blogs page
+[INFO ] 2019-12-29 22:16:40.032 [main] EdurekaHome - clicked on the selenium interview Qs icon  
+[INFO ] 2019-12-29 22:16:40.107 [main] EdurekaHome - scrolled down the selenium interview questions Blog 
+[INFO ] 2019-12-29 22:16:44.446 [main] EdurekaHome - closed blogs
+[INFO ] 2019-12-29 22:18:40.676 [main] EdurekaHome - Andal@16
+[INFO ] 2019-12-29 22:18:40.888 [main] EdurekaHome - sud.v@hotmail.com
+[INFO ] 2019-12-29 22:18:41.255 [main] EdurekaHome - next login button clicked
+[INFO ] 2019-12-29 22:19:45.103 [main] EdurekaHome - Andal@16
+[INFO ] 2019-12-29 22:19:45.341 [main] EdurekaHome - sud.v@hotmail.com
+[INFO ] 2019-12-29 22:19:45.699 [main] EdurekaHome - next login button clicked
+[INFO ] 2019-12-29 22:20:10.723 [main] EdurekaHome - Andal@16
+[INFO ] 2019-12-29 22:20:10.952 [main] EdurekaHome - sud.v@hotmail.com
+[INFO ] 2019-12-29 22:20:11.279 [main] EdurekaHome - next login button clicked
+[INFO ] 2019-12-29 22:20:36.735 [main] EdurekaHome - Andal@16
+[INFO ] 2019-12-29 22:20:36.969 [main] EdurekaHome - sud.v@hotmail.com
+[INFO ] 2019-12-29 22:20:37.292 [main] EdurekaHome - next login button clicked
+[INFO ] 2019-12-29 22:20:40.911 [main] EdurekaHome - clicked on my profile name  
+[INFO ] 2019-12-29 22:20:41.234 [main] EdurekaHome - selected My Profile
+[INFO ] 2019-12-29 22:20:41.572 [main] EdurekaHome - clicked 'Edit profile' button
+[INFO ] 2019-12-29 22:20:44.914 [main] EdurekaHome - elements  found 
+[INFO ] 2019-12-29 22:20:44.990 [main] EdurekaHome - cleared textbox 
+[INFO ] 2019-12-29 22:20:45.521 [main] EdurekaHome - located current role textbox and entered role 
+[INFO ] 2019-12-29 22:20:45.611 [main] EdurekaHome - updated experience to 0-2 years 
+[INFO ] 2019-12-29 22:20:50.029 [main] EdurekaHome - changes saved message dispayed 
+[INFO ] 2019-12-29 22:20:50.095 [main] EdurekaHome - continue button clicked 
+[INFO ] 2019-12-29 22:20:50.511 [main] EdurekaHome - continue button clicked --again 
+[INFO ] 2019-12-29 22:20:50.775 [main] EdurekaHome - skip button clicked  
+[INFO ] 2019-12-29 22:20:50.982 [main] EdurekaHome - updated current company name  
+[INFO ] 2019-12-29 22:20:56.018 [main] EdurekaHome - changes saved message dispayed 
+[INFO ] 2019-12-29 22:20:56.080 [main] EdurekaHome - updated current job level
+[INFO ] 2019-12-29 22:20:56.170 [main] EdurekaHome - updated current idustry sector
+[INFO ] 2019-12-29 22:20:56.616 [main] EdurekaHome - updated linkedin profile 
+[INFO ] 2019-12-29 22:20:57.121 [main] EdurekaHome - updated skill set
+[INFO ] 2019-12-29 22:21:12.308 [main] EdurekaHome - switched to iframe
+[INFO ] 2019-12-29 22:21:12.418 [main] EdurekaHome - clicked OK got it button
+[INFO ] 2019-12-29 22:21:12.503 [main] EdurekaHome - clicked Next button
+[INFO ] 2019-12-29 22:41:21.640 [main] EdurekaHome - Andal@16
+[INFO ] 2019-12-29 22:41:22.070 [main] EdurekaHome - sud.v@hotmail.com
+[INFO ] 2019-12-29 22:41:22.720 [main] EdurekaHome - next login button clicked
+[INFO ] 2019-12-29 22:41:28.471 [main] EdurekaHome - clicked on my profile name  
+[INFO ] 2019-12-29 22:41:29.322 [main] EdurekaHome - selected My Profile
+[INFO ] 2019-12-29 22:41:29.770 [main] EdurekaHome - clicked 'Edit profile' button
+[INFO ] 2019-12-29 22:41:33.043 [main] EdurekaHome - elements  found 
+[INFO ] 2019-12-29 22:41:33.295 [main] EdurekaHome - cleared textbox 
+[INFO ] 2019-12-29 22:41:33.865 [main] EdurekaHome - located current role textbox and entered role 
+[INFO ] 2019-12-29 22:41:33.983 [main] EdurekaHome - updated experience to 0-2 years 
+[INFO ] 2019-12-29 22:41:38.405 [main] EdurekaHome - changes saved message dispayed 
+[INFO ] 2019-12-29 22:41:38.606 [main] EdurekaHome - continue button clicked 
+[INFO ] 2019-12-29 22:41:38.951 [main] EdurekaHome - continue button clicked --again 
+[INFO ] 2019-12-29 22:41:39.241 [main] EdurekaHome - skip button clicked  
+[INFO ] 2019-12-29 22:41:39.489 [main] EdurekaHome - updated current company name  
+[INFO ] 2019-12-29 22:41:44.604 [main] EdurekaHome - changes saved message dispayed 
+[INFO ] 2019-12-29 22:41:44.687 [main] EdurekaHome - updated current job level
+[INFO ] 2019-12-29 22:41:44.824 [main] EdurekaHome - updated current idustry sector
+[INFO ] 2019-12-29 22:41:45.421 [main] EdurekaHome - updated linkedin profile 
+[INFO ] 2019-12-29 22:41:45.945 [main] EdurekaHome - updated skill set
+[INFO ] 2019-12-29 22:42:01.284 [main] EdurekaHome - switched to iframe
+[INFO ] 2019-12-29 22:42:01.566 [main] EdurekaHome - clicked OK got it button
+[INFO ] 2019-12-29 22:42:01.768 [main] EdurekaHome - clicked Next button
+[INFO ] 2019-12-29 22:42:01.986 [main] EdurekaHome - clicked resume button
+[INFO ] 2019-12-29 22:42:02.060 [main] EdurekaHome - ran autoit to attach resume
+[INFO ] 2019-12-29 22:43:28.051 [main] EdurekaHome - Andal@16
+[INFO ] 2019-12-29 22:43:28.299 [main] EdurekaHome - sud.v@hotmail.com
+[INFO ] 2019-12-29 22:43:28.675 [main] EdurekaHome - next login button clicked
+[INFO ] 2019-12-29 22:43:33.305 [main] EdurekaHome - clicked on my profile name  
+[INFO ] 2019-12-29 22:43:33.647 [main] EdurekaHome - selected My Profile
+[INFO ] 2019-12-29 22:43:34.013 [main] EdurekaHome - clicked 'Edit profile' button
+[INFO ] 2019-12-29 22:43:37.189 [main] EdurekaHome - elements  found 
+[INFO ] 2019-12-29 22:43:37.272 [main] EdurekaHome - cleared textbox 
+[INFO ] 2019-12-29 22:43:37.800 [main] EdurekaHome - located current role textbox and entered role 
+[INFO ] 2019-12-29 22:43:37.922 [main] EdurekaHome - updated experience to 0-2 years 
+[INFO ] 2019-12-29 22:43:42.407 [main] EdurekaHome - changes saved message dispayed 
+[INFO ] 2019-12-29 22:43:42.658 [main] EdurekaHome - continue button clicked 
+[INFO ] 2019-12-29 22:43:42.912 [main] EdurekaHome - continue button clicked --again 
+[INFO ] 2019-12-29 22:43:43.168 [main] EdurekaHome - skip button clicked  
+[INFO ] 2019-12-29 22:43:43.396 [main] EdurekaHome - updated current company name  
+[INFO ] 2019-12-29 22:43:48.525 [main] EdurekaHome - changes saved message dispayed 
+[INFO ] 2019-12-29 22:43:48.637 [main] EdurekaHome - updated current job level
+[INFO ] 2019-12-29 22:43:48.797 [main] EdurekaHome - updated current idustry sector
+[INFO ] 2019-12-29 22:43:49.269 [main] EdurekaHome - updated linkedin profile 
+[INFO ] 2019-12-29 22:43:49.775 [main] EdurekaHome - updated skill set
+[INFO ] 2019-12-29 22:47:48.165 [main] EdurekaHome - Andal@16
+[INFO ] 2019-12-29 22:47:48.461 [main] EdurekaHome - sud.v@hotmail.com
+[INFO ] 2019-12-29 22:47:48.817 [main] EdurekaHome - next login button clicked
+[INFO ] 2019-12-29 22:47:53.316 [main] EdurekaHome - clicked on my profile name  
+[INFO ] 2019-12-29 22:47:53.636 [main] EdurekaHome - selected My Profile
+[INFO ] 2019-12-29 22:47:54.016 [main] EdurekaHome - clicked 'Edit profile' button
+[INFO ] 2019-12-29 22:47:57.173 [main] EdurekaHome - elements  found 
+[INFO ] 2019-12-29 22:47:57.338 [main] EdurekaHome - cleared textbox 
+[INFO ] 2019-12-29 22:47:58.010 [main] EdurekaHome - located current role textbox and entered role 
+[INFO ] 2019-12-29 22:47:58.158 [main] EdurekaHome - updated experience to 0-2 years 
+[INFO ] 2019-12-29 22:48:02.445 [main] EdurekaHome - changes saved message dispayed 
+[INFO ] 2019-12-29 22:48:02.693 [main] EdurekaHome - continue button clicked 
+[INFO ] 2019-12-29 22:48:03.055 [main] EdurekaHome - continue button clicked --again 
+[INFO ] 2019-12-29 22:48:03.315 [main] EdurekaHome - skip button clicked  
+[INFO ] 2019-12-29 22:48:03.554 [main] EdurekaHome - updated current company name  
+[INFO ] 2019-12-29 22:48:08.687 [main] EdurekaHome - changes saved message dispayed 
+[INFO ] 2019-12-29 22:48:08.797 [main] EdurekaHome - updated current job level
+[INFO ] 2019-12-29 22:48:08.921 [main] EdurekaHome - updated current idustry sector
+[INFO ] 2019-12-29 22:48:09.401 [main] EdurekaHome - updated linkedin profile 
+[INFO ] 2019-12-29 22:48:09.919 [main] EdurekaHome - updated skill set
+[INFO ] 2019-12-29 22:48:25.308 [main] EdurekaHome - switched to iframe
+[INFO ] 2019-12-29 22:48:25.485 [main] EdurekaHome - clicked OK got it button
+[INFO ] 2019-12-29 22:48:25.576 [main] EdurekaHome - clicked Next button
+[INFO ] 2019-12-29 22:55:20.812 [main] EdurekaHome - Andal@16
+[INFO ] 2019-12-29 22:55:21.080 [main] EdurekaHome - sud.v@hotmail.com
+[INFO ] 2019-12-29 22:55:21.434 [main] EdurekaHome - next login button clicked
+[INFO ] 2019-12-29 22:55:26.044 [main] EdurekaHome - clicked on my profile name  
+[INFO ] 2019-12-29 22:55:26.416 [main] EdurekaHome - selected My Profile
+[INFO ] 2019-12-29 22:55:26.745 [main] EdurekaHome - clicked 'Edit profile' button
+[INFO ] 2019-12-29 22:55:29.789 [main] EdurekaHome - elements  found 
+[INFO ] 2019-12-29 22:55:29.909 [main] EdurekaHome - cleared textbox 
+[INFO ] 2019-12-29 22:55:30.492 [main] EdurekaHome - located current role textbox and entered role 
+[INFO ] 2019-12-29 22:55:30.587 [main] EdurekaHome - updated experience to 0-2 years 
+[INFO ] 2019-12-29 22:55:35.121 [main] EdurekaHome - changes saved message dispayed 
+[INFO ] 2019-12-29 22:55:35.210 [main] EdurekaHome - continue button clicked 
+[INFO ] 2019-12-29 22:55:35.531 [main] EdurekaHome - continue button clicked --again 
+[INFO ] 2019-12-29 22:55:35.961 [main] EdurekaHome - skip button clicked  
+[INFO ] 2019-12-29 22:55:36.253 [main] EdurekaHome - updated current company name  
+[INFO ] 2019-12-29 22:55:41.382 [main] EdurekaHome - changes saved message dispayed 
+[INFO ] 2019-12-29 22:55:41.507 [main] EdurekaHome - updated current job level
+[INFO ] 2019-12-29 22:55:41.692 [main] EdurekaHome - updated current idustry sector
+[INFO ] 2019-12-29 22:55:42.358 [main] EdurekaHome - updated linkedin profile 
+[INFO ] 2019-12-29 22:55:43.018 [main] EdurekaHome - updated skill set
+[INFO ] 2019-12-29 22:56:08.371 [main] EdurekaHome - error while navigating to next page after updating professional details
+[INFO ] 2019-12-29 22:59:38.280 [main] EdurekaHome - Andal@16
+[INFO ] 2019-12-29 22:59:38.586 [main] EdurekaHome - sud.v@hotmail.com
+[INFO ] 2019-12-29 22:59:38.953 [main] EdurekaHome - next login button clicked
+[INFO ] 2019-12-29 22:59:44.018 [main] EdurekaHome - clicked on my profile name  
+[INFO ] 2019-12-29 22:59:44.242 [main] EdurekaHome - selected My Profile
+[INFO ] 2019-12-29 22:59:44.482 [main] EdurekaHome - clicked 'Edit profile' button
+[INFO ] 2019-12-29 22:59:47.641 [main] EdurekaHome - elements  found 
+[INFO ] 2019-12-29 22:59:47.799 [main] EdurekaHome - cleared textbox 
+[INFO ] 2019-12-29 22:59:48.329 [main] EdurekaHome - located current role textbox and entered role 
+[INFO ] 2019-12-29 22:59:48.436 [main] EdurekaHome - updated experience to 0-2 years 
+[INFO ] 2019-12-29 22:59:52.923 [main] EdurekaHome - changes saved message dispayed 
+[INFO ] 2019-12-29 22:59:53.011 [main] EdurekaHome - continue button clicked 
+[INFO ] 2019-12-29 22:59:53.869 [main] EdurekaHome - continue button clicked --again 
+[INFO ] 2019-12-29 22:59:54.106 [main] EdurekaHome - skip button clicked  
+[INFO ] 2019-12-29 22:59:54.310 [main] EdurekaHome - updated current company name  
+[INFO ] 2019-12-29 22:59:59.411 [main] EdurekaHome - changes saved message dispayed 
+[INFO ] 2019-12-29 22:59:59.524 [main] EdurekaHome - updated current job level
+[INFO ] 2019-12-29 22:59:59.683 [main] EdurekaHome - updated current idustry sector
+[INFO ] 2019-12-29 23:00:00.219 [main] EdurekaHome - updated linkedin profile 
+[INFO ] 2019-12-29 23:00:00.735 [main] EdurekaHome - updated skill set
+[INFO ] 2019-12-29 23:00:06.231 [main] EdurekaHome - clicked Next button
+[INFO ] 2019-12-29 23:04:40.564 [main] EdurekaHome - Andal@16
+[INFO ] 2019-12-29 23:04:40.810 [main] EdurekaHome - sud.v@hotmail.com
+[INFO ] 2019-12-29 23:04:41.192 [main] EdurekaHome - next login button clicked
+[INFO ] 2019-12-29 23:04:45.899 [main] EdurekaHome - clicked on my profile name  
+[INFO ] 2019-12-29 23:04:46.206 [main] EdurekaHome - selected My Profile
+[INFO ] 2019-12-29 23:04:46.572 [main] EdurekaHome - clicked 'Edit profile' button
+[INFO ] 2019-12-29 23:04:49.658 [main] EdurekaHome - elements  found 
+[INFO ] 2019-12-29 23:04:49.802 [main] EdurekaHome - cleared textbox 
+[INFO ] 2019-12-29 23:04:50.588 [main] EdurekaHome - located current role textbox and entered role 
+[INFO ] 2019-12-29 23:04:50.734 [main] EdurekaHome - updated experience to 0-2 years 
+[INFO ] 2019-12-29 23:04:54.952 [main] EdurekaHome - changes saved message dispayed 
+[INFO ] 2019-12-29 23:04:55.146 [main] EdurekaHome - continue button clicked 
+[INFO ] 2019-12-29 23:04:55.442 [main] EdurekaHome - continue button clicked --again 
+[INFO ] 2019-12-29 23:04:55.683 [main] EdurekaHome - skip button clicked  
+[INFO ] 2019-12-29 23:04:55.900 [main] EdurekaHome - updated current company name  
+[INFO ] 2019-12-29 23:05:00.990 [main] EdurekaHome - changes saved message dispayed 
+[INFO ] 2019-12-29 23:05:01.107 [main] EdurekaHome - updated current job level
+[INFO ] 2019-12-29 23:05:01.279 [main] EdurekaHome - updated current idustry sector
+[INFO ] 2019-12-29 23:05:01.881 [main] EdurekaHome - updated linkedin profile 
+[INFO ] 2019-12-29 23:05:02.506 [main] EdurekaHome - updated skill set
+[INFO ] 2019-12-29 23:05:07.936 [main] EdurekaHome - clicked Next button
+[INFO ] 2019-12-29 23:11:58.195 [main] EdurekaHome - Andal@16
+[INFO ] 2019-12-29 23:11:58.467 [main] EdurekaHome - sud.v@hotmail.com
+[INFO ] 2019-12-29 23:11:58.861 [main] EdurekaHome - next login button clicked
+[INFO ] 2019-12-29 23:12:03.164 [main] EdurekaHome - clicked on my profile name  
+[INFO ] 2019-12-29 23:12:03.491 [main] EdurekaHome - selected My Profile
+[INFO ] 2019-12-29 23:12:03.816 [main] EdurekaHome - clicked 'Edit profile' button
+[INFO ] 2019-12-29 23:12:06.882 [main] EdurekaHome - elements  found 
+[INFO ] 2019-12-29 23:12:07.037 [main] EdurekaHome - cleared textbox 
+[INFO ] 2019-12-29 23:12:07.557 [main] EdurekaHome - located current role textbox and entered role 
+[INFO ] 2019-12-29 23:12:07.663 [main] EdurekaHome - updated experience to 0-2 years 
+[INFO ] 2019-12-29 23:12:12.168 [main] EdurekaHome - changes saved message dispayed 
+[INFO ] 2019-12-29 23:12:12.421 [main] EdurekaHome - continue button clicked 
+[INFO ] 2019-12-29 23:12:42.025 [main] EdurekaHome - Andal@16
+[INFO ] 2019-12-29 23:12:42.372 [main] EdurekaHome - sud.v@hotmail.com
+[INFO ] 2019-12-29 23:12:42.740 [main] EdurekaHome - next login button clicked
+[INFO ] 2019-12-29 23:12:47.288 [main] EdurekaHome - clicked on my profile name  
+[INFO ] 2019-12-29 23:12:47.730 [main] EdurekaHome - selected My Profile
+[INFO ] 2019-12-29 23:12:48.043 [main] EdurekaHome - clicked 'Edit profile' button
+[INFO ] 2019-12-29 23:12:51.403 [main] EdurekaHome - elements  found 
+[INFO ] 2019-12-29 23:12:51.585 [main] EdurekaHome - cleared textbox 
+[INFO ] 2019-12-29 23:12:52.124 [main] EdurekaHome - located current role textbox and entered role 
+[INFO ] 2019-12-29 23:12:52.220 [main] EdurekaHome - updated experience to 0-2 years 
+[INFO ] 2019-12-29 23:12:56.714 [main] EdurekaHome - changes saved message dispayed 
+[INFO ] 2019-12-29 23:12:56.976 [main] EdurekaHome - continue button clicked 
+[INFO ] 2019-12-29 23:12:57.278 [main] EdurekaHome - continue button clicked --again 
+[INFO ] 2019-12-29 23:12:57.539 [main] EdurekaHome - skip button clicked  
+[INFO ] 2019-12-29 23:12:57.755 [main] EdurekaHome - updated current company name  
+[INFO ] 2019-12-29 23:13:02.871 [main] EdurekaHome - changes saved message dispayed 
+[INFO ] 2019-12-29 23:13:02.996 [main] EdurekaHome - updated current job level
+[INFO ] 2019-12-29 23:13:03.195 [main] EdurekaHome - updated current idustry sector
+[INFO ] 2019-12-29 23:13:03.856 [main] EdurekaHome - updated linkedin profile 
+[INFO ] 2019-12-29 23:13:04.563 [main] EdurekaHome - updated skill set
+[INFO ] 2019-12-29 23:13:09.815 [main] EdurekaHome - clicked Next button
+[INFO ] 2019-12-29 23:14:37.069 [main] EdurekaHome - Andal@16
+[INFO ] 2019-12-29 23:14:37.348 [main] EdurekaHome - sud.v@hotmail.com
+[INFO ] 2019-12-29 23:14:37.719 [main] EdurekaHome - next login button clicked
+[INFO ] 2019-12-29 23:14:42.375 [main] EdurekaHome - clicked on my profile name  
+[INFO ] 2019-12-29 23:14:42.621 [main] EdurekaHome - selected My Profile
+[INFO ] 2019-12-29 23:14:42.953 [main] EdurekaHome - clicked 'Edit profile' button
+[INFO ] 2019-12-29 23:14:46.010 [main] EdurekaHome - elements  found 
+[INFO ] 2019-12-29 23:14:46.148 [main] EdurekaHome - cleared textbox 
+[INFO ] 2019-12-29 23:14:46.786 [main] EdurekaHome - located current role textbox and entered role 
+[INFO ] 2019-12-29 23:14:46.929 [main] EdurekaHome - updated experience to 0-2 years 
+[INFO ] 2019-12-29 23:14:51.291 [main] EdurekaHome - changes saved message dispayed 
+[INFO ] 2019-12-29 23:14:51.419 [main] EdurekaHome - continue button clicked 
+[INFO ] 2019-12-29 23:14:51.643 [main] EdurekaHome - continue button clicked --again 
+[INFO ] 2019-12-29 23:14:51.852 [main] EdurekaHome - skip button clicked  
+[INFO ] 2019-12-29 23:14:52.076 [main] EdurekaHome - updated current company name  
+[INFO ] 2019-12-29 23:14:57.174 [main] EdurekaHome - changes saved message dispayed 
+[INFO ] 2019-12-29 23:14:57.293 [main] EdurekaHome - updated current job level
+[INFO ] 2019-12-29 23:14:57.464 [main] EdurekaHome - updated current idustry sector
+[INFO ] 2019-12-29 23:14:57.980 [main] EdurekaHome - updated linkedin profile 
+[INFO ] 2019-12-29 23:14:58.494 [main] EdurekaHome - updated skill set
+[INFO ] 2019-12-29 23:15:03.762 [main] EdurekaHome - clicked Next button
+[INFO ] 2019-12-29 23:15:03.940 [main] EdurekaHome - error while skipping career interests page
+[INFO ] 2019-12-29 23:18:08.657 [main] EdurekaHome - Andal@16
+[INFO ] 2019-12-29 23:18:08.911 [main] EdurekaHome - sud.v@hotmail.com
+[INFO ] 2019-12-29 23:18:09.305 [main] EdurekaHome - next login button clicked
+[INFO ] 2019-12-29 23:18:15.677 [main] EdurekaHome - clicked on my profile name  
+[INFO ] 2019-12-29 23:18:16.002 [main] EdurekaHome - selected My Profile
+[INFO ] 2019-12-29 23:18:16.327 [main] EdurekaHome - clicked 'Edit profile' button
+[INFO ] 2019-12-29 23:18:19.457 [main] EdurekaHome - elements  found 
+[INFO ] 2019-12-29 23:18:19.551 [main] EdurekaHome - cleared textbox 
+[INFO ] 2019-12-29 23:18:20.184 [main] EdurekaHome - located current role textbox and entered role 
+[INFO ] 2019-12-29 23:18:20.281 [main] EdurekaHome - updated experience to 0-2 years 
+[INFO ] 2019-12-29 23:18:24.616 [main] EdurekaHome - changes saved message dispayed 
+[INFO ] 2019-12-29 23:18:24.713 [main] EdurekaHome - continue button clicked 
+[INFO ] 2019-12-29 23:18:25.055 [main] EdurekaHome - continue button clicked --again 
+[INFO ] 2019-12-29 23:18:25.301 [main] EdurekaHome - skip button clicked  
+[INFO ] 2019-12-29 23:18:25.531 [main] EdurekaHome - updated current company name  
+[INFO ] 2019-12-29 23:18:30.616 [main] EdurekaHome - changes saved message dispayed 
+[INFO ] 2019-12-29 23:18:30.694 [main] EdurekaHome - updated current job level
+[INFO ] 2019-12-29 23:18:30.817 [main] EdurekaHome - updated current idustry sector
+[INFO ] 2019-12-29 23:18:31.367 [main] EdurekaHome - updated linkedin profile 
+[INFO ] 2019-12-29 23:18:31.945 [main] EdurekaHome - updated skill set
+[INFO ] 2019-12-29 23:18:37.183 [main] EdurekaHome - clicked Next button
+[INFO ] 2019-12-29 23:18:38.719 [main] EdurekaHome - refreshed the current page
+[INFO ] 2019-12-29 23:18:48.737 [main] EdurekaHome - error while skipping career interests page
+[INFO ] 2019-12-29 23:22:12.374 [main] EdurekaHome - Andal@16
+[INFO ] 2019-12-29 23:22:12.687 [main] EdurekaHome - sud.v@hotmail.com
+[INFO ] 2019-12-29 23:22:13.089 [main] EdurekaHome - next login button clicked
+[INFO ] 2019-12-29 23:22:40.886 [main] EdurekaHome - Andal@16
+[INFO ] 2019-12-29 23:22:41.168 [main] EdurekaHome - sud.v@hotmail.com
+[INFO ] 2019-12-29 23:22:41.561 [main] EdurekaHome - next login button clicked
+[INFO ] 2019-12-29 23:22:45.960 [main] EdurekaHome - clicked on my profile name  
+[INFO ] 2019-12-29 23:22:46.260 [main] EdurekaHome - selected My Profile
+[INFO ] 2019-12-29 23:22:46.597 [main] EdurekaHome - clicked 'Edit profile' button
+[INFO ] 2019-12-29 23:22:49.651 [main] EdurekaHome - elements  found 
+[INFO ] 2019-12-29 23:22:49.764 [main] EdurekaHome - cleared textbox 
+[INFO ] 2019-12-29 23:22:50.216 [main] EdurekaHome - located current role textbox and entered role 
+[INFO ] 2019-12-29 23:22:50.321 [main] EdurekaHome - updated experience to 0-2 years 
+[INFO ] 2019-12-29 23:22:54.950 [main] EdurekaHome - changes saved message dispayed 
+[INFO ] 2019-12-29 23:22:55.672 [main] EdurekaHome - continue button clicked 
+[INFO ] 2019-12-29 23:23:01.002 [main] EdurekaHome - continue button clicked --again 
+[INFO ] 2019-12-29 23:23:01.229 [main] EdurekaHome - skip button clicked  
+[INFO ] 2019-12-29 23:23:01.457 [main] EdurekaHome - updated current company name  
+[INFO ] 2019-12-29 23:23:06.572 [main] EdurekaHome - changes saved message dispayed 
+[INFO ] 2019-12-29 23:23:06.653 [main] EdurekaHome - updated current job level
+[INFO ] 2019-12-29 23:23:06.780 [main] EdurekaHome - updated current idustry sector
+[INFO ] 2019-12-29 23:23:07.264 [main] EdurekaHome - updated linkedin profile 
+[INFO ] 2019-12-29 23:23:07.854 [main] EdurekaHome - updated skill set
+[INFO ] 2019-12-29 23:23:13.114 [main] EdurekaHome - clicked Next button
+[INFO ] 2019-12-29 23:23:13.366 [main] EdurekaHome - error while skipping career interests page
+[INFO ] 2019-12-29 23:32:55.776 [main] EdurekaHome - Andal@16
+[INFO ] 2019-12-29 23:32:56.064 [main] EdurekaHome - sud.v@hotmail.com
+[INFO ] 2019-12-29 23:32:56.471 [main] EdurekaHome - next login button clicked
+[INFO ] 2019-12-29 23:33:20.851 [main] EdurekaHome - Andal@16
+[INFO ] 2019-12-29 23:33:21.094 [main] EdurekaHome - sud.v@hotmail.com
+[INFO ] 2019-12-29 23:33:21.460 [main] EdurekaHome - next login button clicked
+[INFO ] 2019-12-29 23:33:26.078 [main] EdurekaHome - clicked on my profile name  
+[INFO ] 2019-12-29 23:33:26.431 [main] EdurekaHome - selected My Profile
+[INFO ] 2019-12-29 23:33:26.796 [main] EdurekaHome - clicked 'Edit profile' button
+[INFO ] 2019-12-29 23:33:29.887 [main] EdurekaHome - elements  found 
+[INFO ] 2019-12-29 23:33:30.054 [main] EdurekaHome - cleared textbox 
+[INFO ] 2019-12-29 23:33:30.575 [main] EdurekaHome - located current role textbox and entered role 
+[INFO ] 2019-12-29 23:33:30.676 [main] EdurekaHome - updated experience to 0-2 years 
+[INFO ] 2019-12-29 23:33:35.163 [main] EdurekaHome - changes saved message dispayed 
+[INFO ] 2019-12-29 23:33:35.363 [main] EdurekaHome - continue button clicked 
+[INFO ] 2019-12-29 23:33:35.943 [main] EdurekaHome - continue button clicked --again 
+[INFO ] 2019-12-29 23:33:36.144 [main] EdurekaHome - skip button clicked  
+[INFO ] 2019-12-29 23:33:36.371 [main] EdurekaHome - updated current company name  
+[INFO ] 2019-12-29 23:33:41.514 [main] EdurekaHome - changes saved message dispayed 
+[INFO ] 2019-12-29 23:33:41.641 [main] EdurekaHome - updated current job level
+[INFO ] 2019-12-29 23:33:41.776 [main] EdurekaHome - updated current idustry sector
+[INFO ] 2019-12-29 23:33:42.269 [main] EdurekaHome - updated linkedin profile 
+[INFO ] 2019-12-29 23:33:42.818 [main] EdurekaHome - updated skill set
+[INFO ] 2019-12-29 23:33:48.092 [main] EdurekaHome - clicked Next button
+[INFO ] 2019-12-29 23:34:08.465 [main] EdurekaHome - error while skipping career interests page
+[INFO ] 2019-12-29 23:37:15.300 [main] EdurekaHome - Andal@16
+[INFO ] 2019-12-29 23:37:15.606 [main] EdurekaHome - sud.v@hotmail.com
+[INFO ] 2019-12-29 23:37:15.976 [main] EdurekaHome - next login button clicked
+[INFO ] 2019-12-29 23:37:20.498 [main] EdurekaHome - clicked on my profile name  
+[INFO ] 2019-12-29 23:37:20.835 [main] EdurekaHome - selected My Profile
+[INFO ] 2019-12-29 23:37:21.064 [main] EdurekaHome - clicked 'Edit profile' button
+[INFO ] 2019-12-29 23:37:24.140 [main] EdurekaHome - elements  found 
+[INFO ] 2019-12-29 23:37:24.307 [main] EdurekaHome - cleared textbox 
+[INFO ] 2019-12-29 23:37:24.792 [main] EdurekaHome - located current role textbox and entered role 
+[INFO ] 2019-12-29 23:37:24.881 [main] EdurekaHome - updated experience to 0-2 years 
+[INFO ] 2019-12-29 23:37:29.496 [main] EdurekaHome - changes saved message dispayed 
+[INFO ] 2019-12-29 23:37:29.746 [main] EdurekaHome - continue button clicked 
+[INFO ] 2019-12-29 23:37:30.192 [main] EdurekaHome - continue button clicked --again 
+[INFO ] 2019-12-29 23:37:30.413 [main] EdurekaHome - skip button clicked  
+[INFO ] 2019-12-29 23:37:30.624 [main] EdurekaHome - updated current company name  
+[INFO ] 2019-12-29 23:37:35.759 [main] EdurekaHome - changes saved message dispayed 
+[INFO ] 2019-12-29 23:37:35.873 [main] EdurekaHome - updated current job level
+[INFO ] 2019-12-29 23:37:36.051 [main] EdurekaHome - updated current idustry sector
+[INFO ] 2019-12-29 23:37:36.841 [main] EdurekaHome - updated linkedin profile 
+[INFO ] 2019-12-29 23:37:37.440 [main] EdurekaHome - updated skill set
+[INFO ] 2019-12-29 23:37:42.701 [main] EdurekaHome - clicked Next button
+[INFO ] 2019-12-29 23:37:42.857 [main] EdurekaHome - error while skipping career interests page
+[INFO ] 2019-12-29 23:37:42.870 [main] EdurekaHome - error while skipping career interests page
+[INFO ] 2019-12-29 23:37:42.880 [main] EdurekaHome - error while skipping career interests page
+[INFO ] 2019-12-29 23:37:42.892 [main] EdurekaHome - error while skipping career interests page
+[INFO ] 2019-12-29 23:37:42.904 [main] EdurekaHome - error while skipping career interests page
+[INFO ] 2019-12-29 23:37:42.924 [main] EdurekaHome - error while skipping career interests page
+[INFO ] 2019-12-29 23:37:42.941 [main] EdurekaHome - error while skipping career interests page
+[INFO ] 2019-12-29 23:37:42.955 [main] EdurekaHome - error while skipping career interests page
+[INFO ] 2019-12-29 23:37:42.968 [main] EdurekaHome - error while skipping career interests page
+[INFO ] 2019-12-29 23:37:42.990 [main] EdurekaHome - error while skipping career interests page
