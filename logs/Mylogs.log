@@ -1138,3 +1138,769 @@
 [INFO ] 2019-12-30 01:01:59.406 [main] EdurekaHome - clciked on username
 [INFO ] 2019-12-30 01:02:03.908 [main] EdurekaHome - clciked on logout
 [INFO ] 2019-12-30 01:02:08.122 [main] EdurekaHome - log out and close the browser
+[INFO ] 2019-12-30 11:41:50.982 [main] EdurekaHome - sud.v@hotmail.com
+[INFO ] 2019-12-30 11:41:51.577 [main] EdurekaHome - Edureka1234
+[INFO ] 2019-12-30 11:41:52.186 [main] EdurekaHome - next login button clicked
+[INFO ] 2019-12-30 11:41:52.225 [main] EdurekaHome - navigated to incorrect page
+[INFO ] 2019-12-30 11:41:52.284 [main] EdurekaHome - you have enrolled in a course
+[INFO ] 2019-12-30 11:47:27.590 [main] EdurekaHome - sud.v@hotmail.com
+[INFO ] 2019-12-30 11:47:27.976 [main] EdurekaHome - Edureka1234
+[INFO ] 2019-12-30 11:47:28.296 [main] EdurekaHome - next login button clicked
+[INFO ] 2019-12-30 11:47:28.332 [main] EdurekaHome - navigated to incorrect page
+[INFO ] 2019-12-30 11:47:28.378 [main] EdurekaHome - you have enrolled in a course
+[INFO ] 2019-12-30 11:47:30.473 [main] EdurekaHome - error going to 'All Courses' page
+[INFO ] 2019-12-30 11:47:30.512 [main] EdurekaHome - error clicking on 'Job Role '  Filter
+[INFO ] 2019-12-30 11:47:30.524 [main] EdurekaHome - error selecting job role type radio button in 'Job Role' filter
+[INFO ] 2019-12-30 11:47:30.531 [main] EdurekaHome - error clicking on 'Other Filters'  Filter
+[INFO ] 2019-12-30 11:47:30.556 [main] EdurekaHome - Error while logging out and close the browser
+[INFO ] 2019-12-30 11:47:51.235 [main] EdurekaHome - sud.v@hotmail.com
+[INFO ] 2019-12-30 11:47:51.699 [main] EdurekaHome - Edureka1234
+[INFO ] 2019-12-30 11:47:52.009 [main] EdurekaHome - next login button clicked
+[INFO ] 2019-12-30 11:47:52.054 [main] EdurekaHome - navigated to incorrect page
+[INFO ] 2019-12-30 11:47:52.081 [main] EdurekaHome - you have enrolled in a course
+[INFO ] 2019-12-30 11:47:53.263 [main] EdurekaHome - error going to 'All Courses' page
+[INFO ] 2019-12-30 11:47:53.295 [main] EdurekaHome - error clicking on 'Job Role '  Filter
+[INFO ] 2019-12-30 11:47:53.308 [main] EdurekaHome - error selecting job role type radio button in 'Job Role' filter
+[INFO ] 2019-12-30 11:47:53.318 [main] EdurekaHome - error clicking on 'Other Filters'  Filter
+[INFO ] 2019-12-30 11:47:53.355 [main] EdurekaHome - Error while logging out and close the browser
+[INFO ] 2019-12-30 11:48:21.609 [main] EdurekaHome - sud.v@hotmail.com
+[INFO ] 2019-12-30 11:48:22.090 [main] EdurekaHome - Edureka1234
+[INFO ] 2019-12-30 11:48:22.396 [main] EdurekaHome - next login button clicked
+[INFO ] 2019-12-30 11:48:22.441 [main] EdurekaHome - navigated to incorrect page
+[INFO ] 2019-12-30 11:48:22.471 [main] EdurekaHome - you have enrolled in a course
+[INFO ] 2019-12-30 11:48:23.752 [main] EdurekaHome - error going to 'All Courses' page
+[INFO ] 2019-12-30 11:48:23.766 [main] EdurekaHome - error clicking on 'Job Role '  Filter
+[INFO ] 2019-12-30 11:48:23.783 [main] EdurekaHome - error selecting job role type radio button in 'Job Role' filter
+[INFO ] 2019-12-30 11:48:23.803 [main] EdurekaHome - error clicking on 'Other Filters'  Filter
+[INFO ] 2019-12-30 11:48:23.822 [main] EdurekaHome - Error while logging out and close the browser
+[INFO ] 2019-12-30 11:48:45.516 [main] EdurekaHome - sud.v@hotmail.com
+[INFO ] 2019-12-30 11:48:45.885 [main] EdurekaHome - Edureka1234
+[INFO ] 2019-12-30 11:48:46.202 [main] EdurekaHome - next login button clicked
+[INFO ] 2019-12-30 11:48:46.256 [main] EdurekaHome - navigated to incorrect page
+[INFO ] 2019-12-30 11:48:46.283 [main] EdurekaHome - you have enrolled in a course
+[INFO ] 2019-12-30 11:48:51.410 [main] EdurekaHome - error going to 'All Courses' page
+[INFO ] 2019-12-30 11:48:51.430 [main] EdurekaHome - error clicking on 'Job Role '  Filter
+[INFO ] 2019-12-30 11:48:51.440 [main] EdurekaHome - error selecting job role type radio button in 'Job Role' filter
+[INFO ] 2019-12-30 11:48:51.450 [main] EdurekaHome - error clicking on 'Other Filters'  Filter
+[INFO ] 2019-12-30 11:48:51.462 [main] EdurekaHome - Error while logging out and close the browser
+[INFO ] 2019-12-30 11:49:17.033 [main] EdurekaHome - sud.v@hotmail.com
+[INFO ] 2019-12-30 11:49:17.459 [main] EdurekaHome - Edureka1234
+[INFO ] 2019-12-30 11:49:17.826 [main] EdurekaHome - next login button clicked
+[INFO ] 2019-12-30 11:49:17.860 [main] EdurekaHome - navigated to incorrect page
+[INFO ] 2019-12-30 11:49:17.885 [main] EdurekaHome - you have enrolled in a course
+[INFO ] 2019-12-30 11:49:26.836 [main] EdurekaHome - clicked on 'All Courses' page
+[INFO ] 2019-12-30 11:49:36.950 [main] EdurekaHome - error clicking on 'Job Role '  Filter
+[INFO ] 2019-12-30 11:49:47.179 [main] EdurekaHome - error selecting job role type radio button in 'Job Role' filter
+[INFO ] 2019-12-30 11:49:47.564 [main] EdurekaHome - clicked on 'Other Filters' 
+[INFO ] 2019-12-30 11:49:57.611 [main] EdurekaHome - Error while logging out and close the browser
+[INFO ] 2019-12-30 12:08:14.060 [main] EdurekaHome - sud.v@hotmail.com
+[INFO ] 2019-12-30 12:08:14.517 [main] EdurekaHome - Edureka1234
+[INFO ] 2019-12-30 12:08:14.843 [main] EdurekaHome - next login button clicked
+[INFO ] 2019-12-30 12:08:14.867 [main] EdurekaHome - navigated to incorrect page
+[INFO ] 2019-12-30 12:08:14.893 [main] EdurekaHome - you have enrolled in a course
+[INFO ] 2019-12-30 12:08:15.883 [main] EdurekaHome - error going to 'All Courses' page
+[INFO ] 2019-12-30 12:08:15.898 [main] EdurekaHome - error clicking on 'Job Role '  Filter
+[INFO ] 2019-12-30 12:08:15.909 [main] EdurekaHome - error selecting job role type radio button in 'Job Role' filter
+[INFO ] 2019-12-30 12:08:15.919 [main] EdurekaHome - error clicking on 'Other Filters'  Filter
+[INFO ] 2019-12-30 12:08:15.924 [main] EdurekaHome - Error while logging out and close the browser
+[INFO ] 2019-12-30 12:08:36.920 [main] EdurekaHome - sud.v@hotmail.com
+[INFO ] 2019-12-30 12:08:37.343 [main] EdurekaHome - Edureka1234
+[INFO ] 2019-12-30 12:08:37.695 [main] EdurekaHome - next login button clicked
+[INFO ] 2019-12-30 12:08:37.742 [main] EdurekaHome - navigated to incorrect page
+[INFO ] 2019-12-30 12:08:37.771 [main] EdurekaHome - you have enrolled in a course
+[INFO ] 2019-12-30 12:08:38.946 [main] EdurekaHome - error going to 'All Courses' page
+[INFO ] 2019-12-30 12:08:39.001 [main] EdurekaHome - error clicking on 'Job Role '  Filter
+[INFO ] 2019-12-30 12:08:39.019 [main] EdurekaHome - error selecting job role type radio button in 'Job Role' filter
+[INFO ] 2019-12-30 12:08:39.028 [main] EdurekaHome - error clicking on 'Other Filters'  Filter
+[INFO ] 2019-12-30 12:08:39.039 [main] EdurekaHome - Error while logging out and close the browser
+[INFO ] 2019-12-30 12:09:04.288 [main] EdurekaHome - sud.v@hotmail.com
+[INFO ] 2019-12-30 12:09:04.650 [main] EdurekaHome - Edureka1234
+[INFO ] 2019-12-30 12:09:04.985 [main] EdurekaHome - next login button clicked
+[INFO ] 2019-12-30 12:09:05.012 [main] EdurekaHome - navigated to incorrect page
+[INFO ] 2019-12-30 12:09:05.044 [main] EdurekaHome - you have enrolled in a course
+[INFO ] 2019-12-30 12:09:47.936 [main] EdurekaHome - sud.v@hotmail.com
+[INFO ] 2019-12-30 12:09:48.270 [main] EdurekaHome - Edureka1234
+[INFO ] 2019-12-30 12:09:48.566 [main] EdurekaHome - next login button clicked
+[INFO ] 2019-12-30 12:09:48.595 [main] EdurekaHome - navigated to incorrect page
+[INFO ] 2019-12-30 12:09:48.636 [main] EdurekaHome - you have enrolled in a course
+[INFO ] 2019-12-30 12:09:57.023 [main] EdurekaHome - clicked on 'All Courses' page
+[INFO ] 2019-12-30 12:09:57.226 [main] EdurekaHome - selected 'Job Role '  Filter
+[INFO ] 2019-12-30 12:10:07.377 [main] EdurekaHome - error selecting job role type radio button in 'Job Role' filter
+[INFO ] 2019-12-30 12:10:07.638 [main] EdurekaHome - clicked on 'Other Filters' 
+[INFO ] 2019-12-30 12:10:17.670 [main] EdurekaHome - Error while logging out and close the browser
+[INFO ] 2019-12-30 12:11:01.649 [main] EdurekaHome - error going to 'All Courses' page
+[INFO ] 2019-12-30 12:11:01.732 [main] EdurekaHome - error clicking on 'Job Role '  Filter
+[INFO ] 2019-12-30 12:11:01.741 [main] EdurekaHome - error selecting job role type radio button in 'Job Role' filter
+[INFO ] 2019-12-30 12:11:01.754 [main] EdurekaHome - error clicking on 'Other Filters'  Filter
+[INFO ] 2019-12-30 12:11:01.765 [main] EdurekaHome - Error while logging out and close the browser
+[INFO ] 2019-12-30 12:14:30.199 [main] EdurekaHome - sud.v@hotmail.com
+[INFO ] 2019-12-30 12:14:30.502 [main] EdurekaHome - Edureka1234
+[INFO ] 2019-12-30 12:14:30.774 [main] EdurekaHome - next login button clicked
+[INFO ] 2019-12-30 12:14:30.796 [main] EdurekaHome - navigated to incorrect page
+[INFO ] 2019-12-30 12:14:30.822 [main] EdurekaHome - you have enrolled in a course
+[INFO ] 2019-12-30 12:14:40.215 [main] EdurekaHome - clicked on 'All Courses' page
+[INFO ] 2019-12-30 12:14:40.440 [main] EdurekaHome - selected 'Job Role '  Filter
+[INFO ] 2019-12-30 12:14:50.660 [main] EdurekaHome - error selecting job role type radio button in 'Job Role' filter
+[INFO ] 2019-12-30 12:14:51.061 [main] EdurekaHome - clicked on 'Other Filters' 
+[INFO ] 2019-12-30 12:15:01.124 [main] EdurekaHome - Error while logging out and close the browser
+[INFO ] 2019-12-30 12:26:37.037 [main] EdurekaHome - sud.v@hotmail.com
+[INFO ] 2019-12-30 12:26:37.401 [main] EdurekaHome - Edureka1234
+[INFO ] 2019-12-30 12:26:37.712 [main] EdurekaHome - next login button clicked
+[INFO ] 2019-12-30 12:26:37.735 [main] EdurekaHome - navigated to incorrect page
+[INFO ] 2019-12-30 12:26:37.760 [main] EdurekaHome - you have enrolled in a course
+[INFO ] 2019-12-30 12:26:46.153 [main] EdurekaHome - clicked on 'All Courses' page
+[INFO ] 2019-12-30 12:26:46.325 [main] EdurekaHome - selected 'Job Role '  Filter
+[INFO ] 2019-12-30 12:26:46.424 [main] EdurekaHome -  CLASS  Elements size 176
+[INFO ] 2019-12-30 12:26:46.424 [main] EdurekaHome - saved the list of 'job role' webelements to the Iterator
+[INFO ] 2019-12-30 12:26:46.424 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:46.504 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:46.748 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:46.771 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:46.787 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:46.803 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:46.822 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:46.840 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:46.860 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:46.881 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:46.899 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:46.920 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:46.936 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:46.955 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:46.972 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:46.992 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:47.011 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:47.028 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:47.047 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:47.062 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:47.080 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:47.099 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:47.115 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:47.132 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:47.149 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:47.167 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:47.185 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:47.202 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:47.217 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:47.234 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:47.272 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:47.288 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:47.306 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:47.322 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:47.339 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:47.353 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:47.370 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:47.419 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:47.435 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:47.453 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:47.471 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:47.489 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:47.507 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:47.526 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:47.542 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:47.571 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:47.587 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:47.757 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:47.813 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:47.837 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:47.856 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:47.876 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:47.896 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:47.982 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:48.007 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:48.025 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:48.042 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:48.055 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:48.071 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:48.089 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:48.112 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:48.130 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:48.150 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:48.180 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:48.196 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:48.211 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:48.226 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:48.241 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:48.258 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:48.276 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:48.294 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:48.310 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:48.326 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:48.344 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:48.361 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:48.381 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:48.397 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:48.413 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:48.430 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:48.447 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:48.463 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:48.480 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:48.494 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:48.514 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:48.531 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:48.547 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:48.563 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:48.579 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:48.597 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:48.615 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:48.630 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:48.647 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:48.664 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:48.683 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:48.701 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:48.720 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:48.737 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:48.754 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:48.773 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:48.791 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:48.808 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:48.825 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:48.842 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:48.859 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:48.880 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:48.897 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:48.913 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:48.929 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:48.947 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:48.962 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:48.979 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:48.994 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:49.011 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:49.031 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:49.048 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:49.066 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:49.083 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:49.100 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:49.118 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:49.136 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:49.155 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:49.173 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:49.189 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:49.207 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:49.223 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:49.241 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:49.257 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:49.273 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:49.291 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:49.309 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:49.326 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:49.340 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:49.358 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:49.376 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:49.391 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:49.407 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:49.422 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:49.438 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:49.453 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:49.473 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:49.491 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:49.510 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:49.527 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:49.543 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:49.559 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:49.577 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:49.593 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:49.612 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:49.628 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:49.643 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:49.664 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:49.680 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:49.698 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:49.717 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:49.735 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:49.750 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:49.769 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:49.788 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:49.805 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:49.822 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:49.838 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:49.856 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:49.875 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:49.892 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:49.909 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:49.940 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:49.971 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:50.010 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:50.030 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:50.051 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:50.072 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:50.092 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:50.117 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:50.156 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:50.203 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:50.247 [main] EdurekaHome - Iterating throgh the iterator list
+[INFO ] 2019-12-30 12:26:50.528 [main] EdurekaHome - clicked on 'Other Filters' 
+[INFO ] 2019-12-30 12:27:00.582 [main] EdurekaHome - Error while logging out and close the browser
+[INFO ] 2019-12-30 12:31:35.416 [main] EdurekaHome - sud.v@hotmail.com
+[INFO ] 2019-12-30 12:31:35.775 [main] EdurekaHome - Edureka1234
+[INFO ] 2019-12-30 12:31:36.086 [main] EdurekaHome - next login button clicked
+[INFO ] 2019-12-30 12:31:36.110 [main] EdurekaHome - navigated to incorrect page
+[INFO ] 2019-12-30 12:31:36.135 [main] EdurekaHome - you have enrolled in a course
+[INFO ] 2019-12-30 12:31:45.622 [main] EdurekaHome - clicked on 'All Courses' page
+[INFO ] 2019-12-30 12:31:45.851 [main] EdurekaHome - selected 'Job Role '  Filter
+[INFO ] 2019-12-30 12:31:45.959 [main] EdurekaHome -  CLASS  Elements size 176
+[INFO ] 2019-12-30 12:31:45.959 [main] EdurekaHome - saved the list of 'job role' webelements to the Iterator
+[INFO ] 2019-12-30 12:31:46.202 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:46.239 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:46.271 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:46.310 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:46.340 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:46.364 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:46.391 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:46.419 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:46.449 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:46.482 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:46.657 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:46.730 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:46.762 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:46.793 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:46.877 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:46.905 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:46.932 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:46.962 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:46.992 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:47.019 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:47.049 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:47.077 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:47.104 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:47.133 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:47.163 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:47.192 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:47.219 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:47.249 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:47.281 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:47.309 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:47.338 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:47.364 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:47.391 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:47.421 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:47.452 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:47.480 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:47.510 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:47.542 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:47.571 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:47.596 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:47.633 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:47.662 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:47.693 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:47.722 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:47.753 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:47.779 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:47.816 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:47.844 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:47.873 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:47.899 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:47.928 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:47.956 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:47.988 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:48.016 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:48.046 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:48.074 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:48.105 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:48.133 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:48.159 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:48.188 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:48.225 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:48.273 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:48.323 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:48.371 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:48.417 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:48.472 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:48.517 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:48.571 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:48.618 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:48.670 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:48.725 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:48.790 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:48.845 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:48.900 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:49.001 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:49.036 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:49.068 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:49.096 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:49.123 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:49.157 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:49.202 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:49.231 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:49.274 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:49.310 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:49.353 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:49.396 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:49.446 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:49.495 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:49.543 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:49.577 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:49.615 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:49.657 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:49.692 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:49.721 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:49.756 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:49.791 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:49.820 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:49.850 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:49.883 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:49.912 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:49.942 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:49.976 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:50.006 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:50.039 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:50.070 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:50.096 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:50.127 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:50.158 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:50.187 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:50.213 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:50.241 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:50.272 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:50.299 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:50.331 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:50.361 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:50.394 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:50.429 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:50.463 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:50.493 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:50.525 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:50.563 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:50.593 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:50.628 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:50.661 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:50.692 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:50.725 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:50.760 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:50.792 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:50.823 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:50.849 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:50.877 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:50.905 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:50.933 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:50.963 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:50.990 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:51.019 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:51.052 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:51.081 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:51.113 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:51.144 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:51.171 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:51.204 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:51.234 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:51.263 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:51.292 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:51.320 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:51.347 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:51.375 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:51.406 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:51.438 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:51.469 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:51.499 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:51.528 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:51.558 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:51.589 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:51.619 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:51.648 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:51.678 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:51.709 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:51.749 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:51.784 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:51.815 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:51.843 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:51.871 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:51.904 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:51.933 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:51.964 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:51.995 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:52.027 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:52.058 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:52.090 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:52.116 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:52.142 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:52.175 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:52.203 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:52.231 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:31:52.377 [main] EdurekaHome - clicked on 'Other Filters' 
+[INFO ] 2019-12-30 12:32:01.843 [main] EdurekaHome - Error while logging out and close the browser
+[INFO ] 2019-12-30 12:36:22.470 [main] EdurekaHome - sud.v@hotmail.com
+[INFO ] 2019-12-30 12:36:22.913 [main] EdurekaHome - Edureka1234
+[INFO ] 2019-12-30 12:36:23.262 [main] EdurekaHome - next login button clicked
+[INFO ] 2019-12-30 12:36:23.291 [main] EdurekaHome - navigated to incorrect page
+[INFO ] 2019-12-30 12:36:23.320 [main] EdurekaHome - you have enrolled in a course
+[INFO ] 2019-12-30 12:36:24.219 [main] EdurekaHome - error going to 'All Courses' page
+[INFO ] 2019-12-30 12:36:24.240 [main] EdurekaHome - error clicking on 'Job Role '  Filter
+[INFO ] 2019-12-30 12:36:24.264 [main] EdurekaHome - error selecting job role type radio button in 'Job Role' filter
+[INFO ] 2019-12-30 12:36:24.279 [main] EdurekaHome - error clicking on 'Other Filters'  Filter
+[INFO ] 2019-12-30 12:36:24.304 [main] EdurekaHome - Error while logging out and close the browser
+[INFO ] 2019-12-30 12:36:45.944 [main] EdurekaHome - sud.v@hotmail.com
+[INFO ] 2019-12-30 12:36:46.438 [main] EdurekaHome - Edureka1234
+[INFO ] 2019-12-30 12:36:46.787 [main] EdurekaHome - next login button clicked
+[INFO ] 2019-12-30 12:36:46.815 [main] EdurekaHome - navigated to incorrect page
+[INFO ] 2019-12-30 12:36:46.845 [main] EdurekaHome - you have enrolled in a course
+[INFO ] 2019-12-30 12:36:48.150 [main] EdurekaHome - error going to 'All Courses' page
+[INFO ] 2019-12-30 12:36:48.162 [main] EdurekaHome - error clicking on 'Job Role '  Filter
+[INFO ] 2019-12-30 12:36:48.179 [main] EdurekaHome - error selecting job role type radio button in 'Job Role' filter
+[INFO ] 2019-12-30 12:36:48.189 [main] EdurekaHome - error clicking on 'Other Filters'  Filter
+[INFO ] 2019-12-30 12:36:48.200 [main] EdurekaHome - Error while logging out and close the browser
+[INFO ] 2019-12-30 12:37:10.037 [main] EdurekaHome - sud.v@hotmail.com
+[INFO ] 2019-12-30 12:37:10.392 [main] EdurekaHome - Edureka1234
+[INFO ] 2019-12-30 12:37:10.649 [main] EdurekaHome - next login button clicked
+[INFO ] 2019-12-30 12:37:10.674 [main] EdurekaHome - navigated to incorrect page
+[INFO ] 2019-12-30 12:37:10.700 [main] EdurekaHome - you have enrolled in a course
+[INFO ] 2019-12-30 12:37:19.853 [main] EdurekaHome - clicked on 'All Courses' page
+[INFO ] 2019-12-30 12:37:20.140 [main] EdurekaHome - selected 'Job Role '  Filter
+[INFO ] 2019-12-30 12:37:20.300 [main] EdurekaHome -  CLASS  Elements size 176
+[INFO ] 2019-12-30 12:37:20.300 [main] EdurekaHome - saved the list of 'job role' webelements to the Iterator
+[INFO ] 2019-12-30 12:37:20.382 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:20.751 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:20.779 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:20.811 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:20.842 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:20.871 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:20.933 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:20.983 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:21.011 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:21.040 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:21.067 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:21.112 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:21.140 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:21.166 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:21.195 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:21.227 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:21.254 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:21.293 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:21.324 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:21.353 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:21.381 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:21.408 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:21.433 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:21.460 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:21.488 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:21.518 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:21.549 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:21.579 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:21.608 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:21.641 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:21.711 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:21.741 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:21.769 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:21.801 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:21.832 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:21.869 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:21.897 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:21.922 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:21.950 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:21.978 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:22.006 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:22.031 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:22.062 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:22.089 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:22.118 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:22.146 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:22.176 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:22.204 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:22.230 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:22.257 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:22.283 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:22.307 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:22.338 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:22.369 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:22.396 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:22.425 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:22.453 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:22.487 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:22.516 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:22.545 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:22.575 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:22.606 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:22.638 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:22.670 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:22.698 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:22.722 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:22.752 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:22.782 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:22.814 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:22.841 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:22.869 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:22.898 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:22.925 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:22.954 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:22.983 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:23.010 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:23.039 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:23.068 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:23.104 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:23.129 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:23.169 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:23.216 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:23.261 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:23.321 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:23.435 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:23.493 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:23.544 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:23.596 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:23.658 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:23.697 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:23.732 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:23.775 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:23.812 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:23.840 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:23.871 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:23.901 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:23.933 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:23.960 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:23.991 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:24.019 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:24.049 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:24.077 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:24.109 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:24.138 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:24.170 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:24.196 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:24.229 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:24.257 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:24.290 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:24.320 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:24.347 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:24.375 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:24.402 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:24.429 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:24.455 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:24.481 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:24.511 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:24.541 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:24.571 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:24.604 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:24.632 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:24.661 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:24.690 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:24.717 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:24.752 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:24.779 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:24.805 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:24.838 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:24.868 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:24.900 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:24.947 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:24.993 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:25.029 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:25.068 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:25.117 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:25.176 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:25.215 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:25.257 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:25.296 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:25.342 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:25.380 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:25.409 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:25.438 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:25.468 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:25.498 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:25.525 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:25.553 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:25.583 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:25.614 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:25.661 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:25.700 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:25.727 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:25.755 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:25.784 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:25.817 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:25.849 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:25.893 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:25.941 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:25.988 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:26.041 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:26.089 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:26.120 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:26.147 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:26.181 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:26.209 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:26.238 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:26.273 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:26.298 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:26.325 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:26.350 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:26.376 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:26.406 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:26.437 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:26.472 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:26.509 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:26.556 [main] EdurekaHome - Iterating throgh the iterator list  : 
+[INFO ] 2019-12-30 12:37:26.866 [main] EdurekaHome - clicked on 'Other Filters' 
+[INFO ] 2019-12-30 12:37:36.918 [main] EdurekaHome - Error while logging out and close the browser
+[INFO ] 2019-12-30 13:07:42.009 [main] EdurekaHome - sud.v@hotmail.com
+[INFO ] 2019-12-30 13:07:42.331 [main] EdurekaHome - Edureka1234
+[INFO ] 2019-12-30 13:07:42.653 [main] EdurekaHome - next login button clicked
+[INFO ] 2019-12-30 13:07:42.678 [main] EdurekaHome - navigated to incorrect page
+[INFO ] 2019-12-30 13:07:42.705 [main] EdurekaHome - you have enrolled in a course
+[INFO ] 2019-12-30 13:07:51.587 [main] EdurekaHome - clicked on 'All Courses' page
+[INFO ] 2019-12-30 13:07:51.745 [main] EdurekaHome - selected 'Job Role '  Filter
+[INFO ] 2019-12-30 13:08:01.854 [main] EdurekaHome - error selecting job role type radio button in 'Job Role' filter
+[INFO ] 2019-12-30 13:08:02.147 [main] EdurekaHome - clicked on 'Other Filters' 
+[INFO ] 2019-12-30 13:08:02.431 [main] EdurekaHome - clicked on username
+[INFO ] 2019-12-30 13:08:07.126 [main] EdurekaHome - clicked on logout
+[INFO ] 2019-12-30 13:08:11.421 [main] EdurekaHome - log out and close the browser
+[INFO ] 2019-12-30 13:18:41.938 [main] EdurekaHome - sud.v@hotmail.com
+[INFO ] 2019-12-30 13:18:42.332 [main] EdurekaHome - Edureka1234
+[INFO ] 2019-12-30 13:18:42.664 [main] EdurekaHome - next login button clicked
+[INFO ] 2019-12-30 13:18:42.696 [main] EdurekaHome - navigated to incorrect page
+[INFO ] 2019-12-30 13:18:42.725 [main] EdurekaHome - you have enrolled in a course
+[INFO ] 2019-12-30 13:18:43.756 [main] EdurekaHome - error going to 'All Courses' page
+[INFO ] 2019-12-30 13:18:43.768 [main] EdurekaHome - error clicking on 'Job Role '  Filter
+[INFO ] 2019-12-30 13:18:43.780 [main] EdurekaHome - error selecting job role type radio button in 'Job Role' filter
+[INFO ] 2019-12-30 13:18:43.793 [main] EdurekaHome - error clicking on 'Other Filters'  Filter
+[INFO ] 2019-12-30 13:18:43.812 [main] EdurekaHome - Error while logging out and close the browser
+[INFO ] 2019-12-30 13:19:04.411 [main] EdurekaHome - sud.v@hotmail.com
+[INFO ] 2019-12-30 13:19:04.819 [main] EdurekaHome - Edureka1234
+[INFO ] 2019-12-30 13:19:05.144 [main] EdurekaHome - next login button clicked
+[INFO ] 2019-12-30 13:19:05.191 [main] EdurekaHome - navigated to incorrect page
+[INFO ] 2019-12-30 13:19:05.224 [main] EdurekaHome - you have enrolled in a course
+[INFO ] 2019-12-30 13:19:05.974 [main] EdurekaHome - error going to 'All Courses' page
+[INFO ] 2019-12-30 13:19:05.989 [main] EdurekaHome - error clicking on 'Job Role '  Filter
+[INFO ] 2019-12-30 13:19:06.002 [main] EdurekaHome - error selecting job role type radio button in 'Job Role' filter
+[INFO ] 2019-12-30 13:19:06.009 [main] EdurekaHome - error clicking on 'Other Filters'  Filter
+[INFO ] 2019-12-30 13:19:06.019 [main] EdurekaHome - Error while logging out and close the browser
+[INFO ] 2019-12-30 13:19:27.848 [main] EdurekaHome - sud.v@hotmail.com
+[INFO ] 2019-12-30 13:19:28.264 [main] EdurekaHome - Edureka1234
+[INFO ] 2019-12-30 13:19:28.593 [main] EdurekaHome - next login button clicked
+[INFO ] 2019-12-30 13:19:28.625 [main] EdurekaHome - navigated to incorrect page
+[INFO ] 2019-12-30 13:19:28.665 [main] EdurekaHome - you have enrolled in a course
+[INFO ] 2019-12-30 13:19:29.818 [main] EdurekaHome - error going to 'All Courses' page
+[INFO ] 2019-12-30 13:19:29.831 [main] EdurekaHome - error clicking on 'Job Role '  Filter
+[INFO ] 2019-12-30 13:19:29.842 [main] EdurekaHome - error selecting job role type radio button in 'Job Role' filter
+[INFO ] 2019-12-30 13:19:29.854 [main] EdurekaHome - error clicking on 'Other Filters'  Filter
+[INFO ] 2019-12-30 13:19:29.888 [main] EdurekaHome - Error while logging out and close the browser
+[INFO ] 2019-12-30 13:19:52.358 [main] EdurekaHome - sud.v@hotmail.com
+[INFO ] 2019-12-30 13:19:52.675 [main] EdurekaHome - Edureka1234
+[INFO ] 2019-12-30 13:19:52.948 [main] EdurekaHome - next login button clicked
+[INFO ] 2019-12-30 13:19:52.996 [main] EdurekaHome - navigated to incorrect page
+[INFO ] 2019-12-30 13:19:53.041 [main] EdurekaHome - you have enrolled in a course
+[INFO ] 2019-12-30 13:20:01.767 [main] EdurekaHome - clicked on 'All Courses' page
+[INFO ] 2019-12-30 13:20:02.001 [main] EdurekaHome - selected 'Job Role '  Filter
+[INFO ] 2019-12-30 13:20:02.247 [main] EdurekaHome - scrolled down to view Test Automation engineer 
+[INFO ] 2019-12-30 13:20:03.547 [main] EdurekaHome - error selecting job role type radio button in 'Job Role' filter
+[INFO ] 2019-12-30 13:20:04.778 [main] EdurekaHome - error clicking on 'Other Filters'  Filter
+[INFO ] 2019-12-30 13:20:05.070 [main] EdurekaHome - clicked on username
+[INFO ] 2019-12-30 13:20:09.394 [main] EdurekaHome - clicked on logout
+[INFO ] 2019-12-30 13:20:09.760 [main] EdurekaHome - log out and close the browser
+[INFO ] 2019-12-30 13:22:18.787 [main] EdurekaHome - sud.v@hotmail.com
+[INFO ] 2019-12-30 13:22:19.130 [main] EdurekaHome - Edureka1234
+[INFO ] 2019-12-30 13:22:19.417 [main] EdurekaHome - next login button clicked
+[INFO ] 2019-12-30 13:22:19.435 [main] EdurekaHome - navigated to incorrect page
+[INFO ] 2019-12-30 13:22:19.461 [main] EdurekaHome - you have enrolled in a course
+[INFO ] 2019-12-30 13:22:28.078 [main] EdurekaHome - clicked on 'All Courses' page
+[INFO ] 2019-12-30 13:22:28.247 [main] EdurekaHome - selected 'Job Role '  Filter
+[INFO ] 2019-12-30 13:22:28.349 [main] EdurekaHome - scrolled down to view Test Automation engineer 
+[INFO ] 2019-12-30 13:22:29.767 [main] EdurekaHome - error selecting job role type radio button in 'Job Role' filter
+[INFO ] 2019-12-30 13:22:30.996 [main] EdurekaHome - error clicking on 'Other Filters'  Filter
+[INFO ] 2019-12-30 13:22:31.465 [main] EdurekaHome - clicked on username
+[INFO ] 2019-12-30 13:22:35.346 [main] EdurekaHome - clicked on logout
+[INFO ] 2019-12-30 13:22:39.566 [main] EdurekaHome - log out and close the browser
+[INFO ] 2019-12-30 13:24:45.950 [main] EdurekaHome - sud.v@hotmail.com
+[INFO ] 2019-12-30 13:24:46.260 [main] EdurekaHome - Edureka1234
+[INFO ] 2019-12-30 13:24:46.548 [main] EdurekaHome - next login button clicked
+[INFO ] 2019-12-30 13:24:46.571 [main] EdurekaHome - navigated to incorrect page
+[INFO ] 2019-12-30 13:24:46.591 [main] EdurekaHome - you have enrolled in a course
+[INFO ] 2019-12-30 13:24:55.174 [main] EdurekaHome - clicked on 'All Courses' page
+[INFO ] 2019-12-30 13:24:55.379 [main] EdurekaHome - selected 'Job Role '  Filter
+[INFO ] 2019-12-30 13:25:05.553 [main] EdurekaHome - error selecting job role type radio button in 'Job Role' filter
+[INFO ] 2019-12-30 13:25:05.849 [main] EdurekaHome - clicked on 'Other Filters' 
+[INFO ] 2019-12-30 13:25:06.066 [main] EdurekaHome - clicked on username
+[INFO ] 2019-12-30 13:25:11.162 [main] EdurekaHome - clicked on logout
+[INFO ] 2019-12-30 13:25:11.536 [main] EdurekaHome - log out and close the browser

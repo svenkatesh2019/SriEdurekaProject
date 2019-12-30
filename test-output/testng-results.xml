@@ -2,26 +2,26 @@
 <testng-results ignored="3" total="5" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2019-12-30T01:01:46 EST" name="Suite" finished-at="2019-12-30T01:02:08 EST" duration-ms="21997">
+  <suite started-at="2019-12-30T13:24:44 EST" name="Suite" finished-at="2019-12-30T13:25:11 EST" duration-ms="27295">
     <groups>
     </groups>
-    <test started-at="2019-12-30T01:01:46 EST" name="Test" finished-at="2019-12-30T01:02:08 EST" duration-ms="21997">
+    <test started-at="2019-12-30T13:24:44 EST" name="Test" finished-at="2019-12-30T13:25:11 EST" duration-ms="27295">
       <class name="com.edureka.TestBase.BrowserBasics">
-        <test-method is-config="true" signature="Init()[pri:0, instance:com.edureka.TestBase.BrowserBasics@1198b989]" started-at="2019-12-30T01:01:31 EST" name="Init" finished-at="2019-12-30T01:01:46 EST" duration-ms="15057" status="PASS">
+        <test-method is-config="true" signature="Init()[pri:0, instance:com.edureka.TestBase.BrowserBasics@1198b989]" started-at="2019-12-30T13:24:29 EST" name="Init" finished-at="2019-12-30T13:24:44 EST" duration-ms="14679" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Init -->
-        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:com.edureka.TestBase.BrowserBasics@1198b989]" started-at="2019-12-30T01:02:08 EST" name="CloseBrowser" finished-at="2019-12-30T01:02:08 EST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:com.edureka.TestBase.BrowserBasics@1198b989]" started-at="2019-12-30T13:25:11 EST" name="CloseBrowser" finished-at="2019-12-30T13:25:11 EST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CloseBrowser -->
       </class> <!-- com.edureka.TestBase.BrowserBasics -->
       <class name="com.edureka.TestBase.LogIntoEdureka">
-        <test-method signature="Init()[pri:1, instance:com.edureka.TestBase.LogIntoEdureka@7ff95560]" started-at="2019-12-30T01:01:46 EST" name="Init" finished-at="2019-12-30T01:01:48 EST" duration-ms="2096" status="PASS">
+        <test-method signature="Init()[pri:1, instance:com.edureka.TestBase.LogIntoEdureka@7ff95560]" started-at="2019-12-30T13:24:44 EST" name="Init" finished-at="2019-12-30T13:24:46 EST" duration-ms="2259" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Init -->
-        <test-method signature="checkForMycourses()[pri:4, instance:com.edureka.TestBase.LogIntoEdureka@7ff95560]" started-at="2019-12-30T01:01:48 EST" name="checkForMycourses" finished-at="2019-12-30T01:02:08 EST" duration-ms="19861" status="PASS">
+        <test-method signature="checkForMycourses()[pri:4, instance:com.edureka.TestBase.LogIntoEdureka@7ff95560]" started-at="2019-12-30T13:24:46 EST" name="checkForMycourses" finished-at="2019-12-30T13:25:11 EST" duration-ms="24981" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkForMycourses -->
