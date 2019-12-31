@@ -112,6 +112,9 @@ public class EdurekaMyprofile {
 	@CacheLookup
 	WebElement save;
 	
+	@FindBy(how = How.NAME,using = "currentCity")
+	@CacheLookup
+	WebElement currentCity;
 	
 	public void clickEdureka()
 	{
@@ -177,6 +180,7 @@ public class EdurekaMyprofile {
 			setSkillSet();
 			//UploadResume();
 			navigateToNextPage();
+			setCurrentCity();
 			setExpectedCTC();
 			setWillingToRelocate();
 			setPreferredCity();
@@ -191,6 +195,19 @@ public class EdurekaMyprofile {
 			ex.printStackTrace();
 		}
 				
+	}
+	private void setCurrentCity() {
+		try {
+			currentCity.clear();
+			currentCity.sendKeys(" TEST city");
+			logger.info("updated current city location in Career Interests page");
+		}
+		catch(Exception ex)
+		{
+			logger.info("error while updating city location  in Career Interests page");
+			ex.printStackTrace();
+		}
+		
 	}
 	private void clickSaveOnLastPage() {
 		try {

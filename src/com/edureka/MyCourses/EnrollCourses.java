@@ -76,6 +76,14 @@ public class EnrollCourses {
 	@CacheLookup
 	WebElement batchTypeChoice;
 	
+	@FindBy(how = How.XPATH,using = "//a[text()='Apply']")
+	@CacheLookup
+	WebElement applyBtn;
+	
+	@FindBy(how = How.XPATH,using = "//h3[contains(text(),'Selenium Cert')]")
+	@CacheLookup
+	WebElement seleCourse;
+	
 	public void checkEnrolledCourses()
 	{
 		checkMyCourses();
@@ -90,7 +98,21 @@ public class EnrollCourses {
 		selectRoleType();
 		setOtherFilters();
 		setBatchType();
+		scrolldownToSeleCourse();
 		//logout();
+	}
+
+	private void scrolldownToSeleCourse() {
+		
+		try {
+			seleCourse.click();
+			logger.info("scrolled down to view Selenium course");
+		}
+		catch(Exception ex)
+		{
+			logger.info("error scrolling down to Selenium Course");
+			ex.printStackTrace();
+		}
 	}
 
 	private void goToMyClassroom() {
@@ -138,7 +160,13 @@ public class EnrollCourses {
 	private void setBatchType() {
 		try {
 			batchTypeChoice.click();
-			logger.info("batch type in 'Other Filters' drop-down selected");
+			logger.info("batch type 'Weekend' in 'Other Filters' drop-down selected");
+			applyBtn.click();
+			logger.info("'Apply' button clicked");
+			
+//			JavascriptExecutor js = (JavascriptExecutor) driver;
+//	        js.executeScript("arguments[0].scrollIntoView();", element);
+//	        logger.info("scrolled down to view software testing icon ");
 		}
 		catch(Exception ex)
 		{

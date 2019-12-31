@@ -29,11 +29,11 @@ public class EdurekaHome {
 		wait=new WebDriverWait(driver, 20);
 	}
 	
-	@FindBy(how = How.XPATH,using = "//button[contains(text(),'Community')]")
+	@FindBy(how = How.XPATH,using = "//a[@id='dropdownMenu4' and contains(text(),'Community')]")
 	@CacheLookup
 	WebElement community;
 	
-	@FindBy(how = How.XPATH,using = "//a[text()='Blog']")
+	@FindBy(how = How.XPATH,using = "//li[@class='ga-blog ga_ecom_info']//a[@class='giTrackElementHeader'][contains(text(),'Blog')]")
 	@CacheLookup
 	WebElement bloglink;
 	
@@ -50,6 +50,8 @@ public class EdurekaHome {
 	 }
 	 catch(Exception e)
 		{
+		 
+		 	logger.info("error while clicking community menu'");
 			e.printStackTrace();
 		}
 		
@@ -62,6 +64,7 @@ public class EdurekaHome {
 		}
 		 catch(Exception e)
 		{
+			 logger.info("error while clicking 'Blogs'");
 			e.printStackTrace();
 		}
 		

@@ -37,7 +37,7 @@ public class LogIntoEdureka extends BrowserBasics{
 		
 	}
 	
-	@Test(priority=2,enabled = false)	
+	@Test(priority=4,enabled = true)	
 	public void executeOthers()
 	{
 		EdurekaHome eduhome = PageFactory.initElements(driver, EdurekaHome.class); 
@@ -48,7 +48,7 @@ public class LogIntoEdureka extends BrowserBasics{
 		eduhome.exploreBlog();
 		eduhome.closeBlogs();
 	}
-	@Test(priority = 3,enabled=true)
+	@Test(priority = 2,enabled=true)
 	public void selectMyprofile() throws Exception
 	{
 		EdurekaMyprofile myProfile =  PageFactory.initElements(driver, EdurekaMyprofile.class); 
@@ -59,7 +59,7 @@ public class LogIntoEdureka extends BrowserBasics{
 		myProfile.ProfessionalDetails();
 	}
 	
-	@Test(priority = 4,enabled=true)
+	@Test(priority = 3,enabled=true)
 	public void checkForMycourses()
 	{
 		EnrollCourses enroll = PageFactory.initElements(driver, EnrollCourses.class); 
