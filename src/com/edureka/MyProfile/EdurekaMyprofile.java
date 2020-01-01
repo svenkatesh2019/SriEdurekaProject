@@ -355,8 +355,9 @@ public class EdurekaMyprofile {
 			if(framePopsUp())
 			{
 				driver.switchTo().frame("wiz-iframe-intent");
+				//driver.switchTo().frame(0);
 				logger.info("switched to iframe");
-				driver.findElement(By.xpath("//a[contains(text(),'Ok, got')]")).click();
+				driver.findElement(By.xpath("//a[text()='Ok, got it!']")).click();
 				logger.info("clicked OK got it button");
 			}
 				nextBtn.click();
@@ -364,7 +365,7 @@ public class EdurekaMyprofile {
 		}
 		catch(Exception ex)
 		{
-			logger.info("error while navigating to next page after updating professional details");
+			logger.info("Pop up problem---error while navigating to next page after updating professional details");
 			ex.printStackTrace();
 		}
 		//driver.switchTo().defaultContent();

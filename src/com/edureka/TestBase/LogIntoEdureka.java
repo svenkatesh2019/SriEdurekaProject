@@ -1,6 +1,7 @@
 package com.edureka.TestBase;
 
 
+import org.openqa.selenium.By;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.Test;
 import com.edureka.Blogs.EdurekaHome;
@@ -11,7 +12,7 @@ import com.edureka.MyProfile.EdurekaMyprofile;
 public class LogIntoEdureka extends BrowserBasics{
 	
 	public String expectedMessage = "Instructor-Led Online Training with 24X7 Lifetime Support | Edureka";
-	
+	public boolean loginfail;
 	
 	
 	@Test(priority=1)	
@@ -22,15 +23,16 @@ public class LogIntoEdureka extends BrowserBasics{
 			EdurekaLogin eduLogin = PageFactory.initElements(driver, EdurekaLogin.class); 
 			
 			
-		eduLogin.clickFirstLoginBtn();
-		eduLogin.setPassword("Edureka1234");
-		eduLogin.setEmail("sud.v@hotmail.com");
-		
-		
-		eduLogin.clickSecondLoginBtn();
-		
+			eduLogin.clickFirstLoginBtn();
+			
+			
+			eduLogin.setPassword("Edureka1234");
+			eduLogin.setEmail("sud.v@hotmail.com");
+			eduLogin.clickSecondLoginBtn();
 		}
+		
 		catch(Exception ex)
+		
 		{
 			ex.printStackTrace();
 		}

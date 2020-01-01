@@ -1,5 +1,6 @@
 package com.edureka.Blogs;
 
+import java.util.NoSuchElementException;
 import java.util.concurrent.TimeUnit;
 
 import org.apache.logging.log4j.LogManager;
@@ -48,6 +49,11 @@ public class EdurekaLogin {
 		firstLogin.click();
 		
 	}
+	public void clearLoginTxtBoxes()
+	{
+		emailtxtbox.clear();
+		passwordTxtbox.clear();
+	}
 	public void setEmail(String email) throws InterruptedException
 	{
 		//driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
@@ -81,4 +87,17 @@ public class EdurekaLogin {
 		
 		
 	}
+	
+	public boolean isElementPresent(String x_path){
+        try{
+            driver.findElement(By.xpath(x_path));
+            logger.info(x_path);
+            logger.info("credentials are Incorrect. Login error");
+            return true;
+        }
+        catch(NoSuchElementException e){
+        	logger.info("credentials are correct. no password error");
+            return false;
+        }
+    }
 }
