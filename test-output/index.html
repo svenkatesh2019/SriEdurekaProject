@@ -24,7 +24,7 @@
     <div class="top-banner-root">
       <span class="top-banner-title-font">Test results</span>
       <br/>
-      <span class="top-banner-font-1">1 suite, 2 failed tests</span>
+      <span class="top-banner-font-1">1 suite, 1 failed test</span>
     </div> <!-- top-banner-root -->
     <div class="navigator-root">
       <div class="navigator-suite-header">
@@ -91,7 +91,7 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">4 methods, 2 failed,   2 passed</span>
+                    <span class="method-stats">4 methods, 1 failed,   3 passed</span>
                   </li>
                   <li>
                     <span class="method-list-title failed">Failed methods</span>
@@ -100,11 +100,6 @@
                       <a href="#" panel-name="suite-Suite" class="show-methods failed suite-Suite"> (show)</a> <!-- show-methods failed suite-Suite -->
                     </span>
                     <div class="method-list-content failed suite-Suite">
-                      <span>
-                        <img src="failed.png" width="3%"/>
-                        <a href="#" panel-name="suite-Suite" title="com.edureka.TestBase.LogIntoEdureka" class="method navigator-link" hash-for-method="checkForMycourses">checkForMycourses</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
                       <span>
                         <img src="failed.png" width="3%"/>
                         <a href="#" panel-name="suite-Suite" title="com.edureka.TestBase.LogIntoEdureka" class="method navigator-link" hash-for-method="executeOthers">executeOthers</a> <!-- method navigator-link -->
@@ -122,6 +117,11 @@
                       <span>
                         <img src="passed.png" width="3%"/>
                         <a href="#" panel-name="suite-Suite" title="com.edureka.TestBase.LogIntoEdureka" class="method navigator-link" hash-for-method="Init">Init</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Suite" title="com.edureka.TestBase.LogIntoEdureka" class="method navigator-link" hash-for-method="checkForMycourses">checkForMycourses</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                       <span>
@@ -149,35 +149,6 @@
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="checkForMycourses">
-                  </a> <!-- checkForMycourses -->
-                  <span class="method-name">checkForMycourses</span>
-                  <div class="stack-trace">org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
-from unknown error: web view not found
-  (Session info: chrome=79.0.3945.88)
-Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:25:53&apos;
-System info: host: &apos;LAPTOP-C2RA5JIE&apos;, ip: &apos;192.168.1.6&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;13.0.1&apos;
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.88, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\sudv\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:60732}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: b635b9b399f5a45e0577643779313a0e
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:609)
-	at org.openqa.selenium.remote.RemoteWebDriver.getTitle(RemoteWebDriver.java:281)
-	at com.edureka.MyCourses.EnrollCourses.checkPage(EnrollCourses.java:233)
-	at com.edureka.MyCourses.EnrollCourses.checkEnrolledCourses(EnrollCourses.java:91)
-	at com.edureka.TestBase.LogIntoEdureka.checkForMycourses(LogIntoEdureka.java:66)
-	at java.base/java.util.ArrayList.forEach(ArrayList.java:1507)
-... Removed 32 stack frames
-</div> <!-- stack-trace -->
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-              <div class="method">
-                <div class="method-content">
                   <a name="executeOthers">
                   </a> <!-- executeOthers -->
                   <span class="method-name">executeOthers</span>
@@ -186,8 +157,8 @@ Session ID: b635b9b399f5a45e0577643779313a0e
 Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:25:53&apos;
 System info: host: &apos;LAPTOP-C2RA5JIE&apos;, ip: &apos;192.168.1.6&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;13.0.1&apos;
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.88, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\sudv\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:60732}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: b635b9b399f5a45e0577643779313a0e
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.88, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\sudv\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:65192}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: dd49aee9d9f5a6d2792b195d745f84f2
 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
@@ -197,7 +168,7 @@ Session ID: b635b9b399f5a45e0577643779313a0e
 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:609)
 	at org.openqa.selenium.remote.RemoteWebDriver.close(RemoteWebDriver.java:442)
 	at com.edureka.Blogs.EdurekaHome.closeBlogs(EdurekaHome.java:105)
-	at com.edureka.TestBase.LogIntoEdureka.executeOthers(LogIntoEdureka.java:49)
+	at com.edureka.TestBase.LogIntoEdureka.executeOthers(LogIntoEdureka.java:51)
 	at java.base/java.util.ArrayList.forEach(ArrayList.java:1507)
 ... Removed 32 stack frames
 </div> <!-- stack-trace -->
@@ -216,6 +187,13 @@ Session ID: b635b9b399f5a45e0577643779313a0e
                   <a name="Init">
                   </a> <!-- Init -->
                   <span class="method-name">Init</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="checkForMycourses">
+                  </a> <!-- checkForMycourses -->
+                  <span class="method-name">checkForMycourses</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
               <div class="method">
@@ -284,24 +262,24 @@ data.addRows(4);
 data.setCell(0, 0, 0)
 data.setCell(0, 1, 'selectMyprofile')
 data.setCell(0, 2, 'com.edureka.TestBase.LogIntoEdureka')
-data.setCell(0, 3, 95445);
+data.setCell(0, 3, 51097);
 data.setCell(1, 0, 1)
 data.setCell(1, 1, 'executeOthers')
 data.setCell(1, 2, 'com.edureka.TestBase.LogIntoEdureka')
-data.setCell(1, 3, 24393);
+data.setCell(1, 3, 45953);
 data.setCell(2, 0, 2)
 data.setCell(2, 1, 'checkForMycourses')
 data.setCell(2, 2, 'com.edureka.TestBase.LogIntoEdureka')
-data.setCell(2, 3, 10686);
+data.setCell(2, 3, 13940);
 data.setCell(3, 0, 3)
 data.setCell(3, 1, 'Init')
 data.setCell(3, 2, 'com.edureka.TestBase.LogIntoEdureka')
-data.setCell(3, 3, 2068);
+data.setCell(3, 3, 2423);
 window.suiteTableData['Suite']= { tableData: data, tableDiv: 'times-div-Suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 2 minutes</span>
+              <span class="suite-total-time">Total running time: 1 minutes</span>
               <div id="times-div-Suite">
               </div> <!-- times-div-Suite -->
             </div> <!-- times-div -->
@@ -344,30 +322,28 @@ return data;
               <div class="chronological-class-name">com.edureka.TestBase.LogIntoEdureka</div> <!-- chronological-class-name -->
               <div class="test-method">
                 <span class="method-name">Init</span>
-                <span class="method-start">14138 ms</span>
+                <span class="method-start">14905 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">selectMyprofile</span>
-                <span class="method-start">16210 ms</span>
+                <span class="method-start">17336 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
-                <img src="failed.png">
-                </img>
                 <span class="method-name">checkForMycourses</span>
-                <span class="method-start">111658 ms</span>
+                <span class="method-start">68437 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <img src="failed.png">
                 </img>
                 <span class="method-name">executeOthers</span>
-                <span class="method-start">122355 ms</span>
+                <span class="method-start">82381 ms</span>
               </div> <!-- test-method -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">com.edureka.TestBase.BrowserBasics</div> <!-- chronological-class-name -->
               <div class="configuration-suite after">
                 <span class="method-name">CloseBrowser</span>
-                <span class="method-start">146807 ms</span>
+                <span class="method-start">128437 ms</span>
               </div> <!-- configuration-suite after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

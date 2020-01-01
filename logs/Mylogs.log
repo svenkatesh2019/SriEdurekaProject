@@ -2118,3 +2118,229 @@
 [INFO ] 2019-12-30 20:49:50.695 [main] EdurekaHome - exception encountered while navigating to testing blogs page
 [INFO ] 2019-12-30 20:50:11.022 [main] EdurekaHome - exception encountered while navigating to testing blogs page
 [INFO ] 2019-12-30 20:50:11.032 [main] EdurekaHome - exception encountered while scrolling down the selenium interview questions Blog
+[INFO ] 2019-12-30 21:54:04.755 [main] EdurekaHome - Edureka1234
+[INFO ] 2019-12-30 21:54:04.993 [main] EdurekaHome - sud.v@hotmail.com
+[INFO ] 2019-12-30 21:54:05.373 [main] EdurekaHome - next login button clicked
+[INFO ] 2019-12-30 21:55:45.622 [main] EdurekaHome - error going to 'Courses' drop-down
+[INFO ] 2019-12-30 21:55:45.637 [main] EdurekaHome - error clicking on 'MyClassroom' in'courses' drop-down
+[INFO ] 2019-12-30 21:55:45.661 [main] EdurekaHome - Click on community menu
+[INFO ] 2019-12-30 21:55:45.667 [main] EdurekaHome - error while clicking community menu'
+[INFO ] 2019-12-30 21:55:45.674 [main] EdurekaHome - error while clicking 'Blogs'
+[INFO ] 2019-12-30 21:55:45.680 [main] EdurekaHome - exception encountered while switching to pop up window
+[INFO ] 2019-12-30 21:55:45.716 [main] EdurekaHome - exception encountered while clicking Testing object
+[INFO ] 2019-12-30 21:55:45.720 [main] EdurekaHome - exception encountered while navigating to testing blogs page
+[INFO ] 2019-12-30 21:55:58.948 [main] EdurekaHome - Edureka1234
+[INFO ] 2019-12-30 21:55:59.223 [main] EdurekaHome - sud.v@hotmail.com
+[INFO ] 2019-12-30 21:55:59.596 [main] EdurekaHome - next login button clicked
+[INFO ] 2019-12-30 21:56:05.951 [main] EdurekaHome - exception encountered while navigating to testing blogs page
+[INFO ] 2019-12-30 21:56:05.955 [main] EdurekaHome - exception encountered while scrolling down the selenium interview questions Blog
+[INFO ] 2019-12-30 21:58:06.110 [main] EdurekaHome - error going to 'Courses' drop-down
+[INFO ] 2019-12-30 21:58:16.159 [main] EdurekaHome - error clicking on 'MyClassroom' in'courses' drop-down
+[INFO ] 2019-12-30 21:58:16.170 [main] EdurekaHome - navigated to incorrect page
+[INFO ] 2019-12-30 21:58:26.222 [main] EdurekaHome - Click on community menu
+[INFO ] 2019-12-30 21:58:37.660 [main] EdurekaHome - error while clicking community menu'
+[INFO ] 2019-12-31 13:13:03.840 [main] EdurekaHome - error while clicking 'Blogs'
+[INFO ] 2019-12-31 13:13:04.339 [main] EdurekaHome - switched to pop up window
+[INFO ] 2019-12-31 20:17:09.792 [main] EdurekaHome - exception encountered while switching to pop up window
+[INFO ] 2019-12-31 20:17:19.875 [main] EdurekaHome - exception encountered while clicking Testing object
+[INFO ] 2019-12-31 20:17:19.888 [main] EdurekaHome - error navigating to Testing blogs page
+[INFO ] 2019-12-31 20:17:42.302 [main] EdurekaHome - exception encountered while navigating to testing blogs page
+[INFO ] 2019-12-31 20:17:49.009 [main] EdurekaHome - Edureka1234
+[INFO ] 2019-12-31 20:17:49.379 [main] EdurekaHome - sud.v@hotmail.com
+[INFO ] 2019-12-31 20:17:49.801 [main] EdurekaHome - next login button clicked
+[INFO ] 2019-12-31 20:17:51.852 [main] EdurekaHome - error going to 'Courses' drop-down
+[INFO ] 2019-12-31 20:17:51.884 [main] EdurekaHome - error clicking on 'MyClassroom' in'courses' drop-down
+[INFO ] 2019-12-31 20:17:51.907 [main] EdurekaHome - Click on community menu
+[INFO ] 2019-12-31 20:17:51.918 [main] EdurekaHome - error while clicking community menu'
+[INFO ] 2019-12-31 20:17:51.926 [main] EdurekaHome - error while clicking 'Blogs'
+[INFO ] 2019-12-31 20:17:51.933 [main] EdurekaHome - exception encountered while switching to pop up window
+[INFO ] 2019-12-31 20:17:51.939 [main] EdurekaHome - exception encountered while clicking Testing object
+[INFO ] 2019-12-31 20:17:51.945 [main] EdurekaHome - exception encountered while navigating to testing blogs page
+[INFO ] 2019-12-31 20:17:56.780 [main] EdurekaHome - exception encountered while scrolling down the selenium interview questions Blog
+[INFO ] 2019-12-31 20:18:12.243 [main] EdurekaHome - exception encountered while navigating to testing blogs page
+[INFO ] 2019-12-31 20:18:12.249 [main] EdurekaHome - exception encountered while scrolling down the selenium interview questions Blog
+[INFO ] 2019-12-31 20:18:14.245 [main] EdurekaHome - Edureka1234
+[INFO ] 2019-12-31 20:18:14.576 [main] EdurekaHome - sud.v@hotmail.com
+[INFO ] 2019-12-31 20:18:14.957 [main] EdurekaHome - next login button clicked
+[INFO ] 2019-12-31 20:18:35.071 [main] EdurekaHome - error going to 'Courses' drop-down
+[INFO ] 2019-12-31 20:19:15.554 [main] EdurekaHome - error clicking on 'MyClassroom' in'courses' drop-down
+[INFO ] 2019-12-31 20:19:15.626 [main] EdurekaHome - Click on community menu
+[INFO ] 2019-12-31 20:19:15.633 [main] EdurekaHome - error while clicking community menu'
+[INFO ] 2019-12-31 20:19:15.641 [main] EdurekaHome - error while clicking 'Blogs'
+[INFO ] 2019-12-31 20:19:15.645 [main] EdurekaHome - exception encountered while switching to pop up window
+[INFO ] 2019-12-31 20:19:15.653 [main] EdurekaHome - exception encountered while clicking Testing object
+[INFO ] 2019-12-31 20:19:15.657 [main] EdurekaHome - exception encountered while navigating to testing blogs page
+[INFO ] 2019-12-31 20:19:15.662 [main] EdurekaHome - exception encountered while navigating to testing blogs page
+[INFO ] 2019-12-31 20:19:15.674 [main] EdurekaHome - exception encountered while scrolling down the selenium interview questions Blog
+[INFO ] 2019-12-31 21:47:11.584 [main] EdurekaHome - error going to 'Courses' drop-down
+[INFO ] 2019-12-31 21:47:11.624 [main] EdurekaHome - error clicking on 'MyClassroom' in'courses' drop-down
+[INFO ] 2019-12-31 21:47:11.665 [main] EdurekaHome - Click on community menu
+[INFO ] 2019-12-31 21:47:11.680 [main] EdurekaHome - error while clicking community menu'
+[INFO ] 2019-12-31 21:47:11.696 [main] EdurekaHome - error while clicking 'Blogs'
+[INFO ] 2019-12-31 21:47:11.719 [main] EdurekaHome - exception encountered while switching to pop up window
+[INFO ] 2019-12-31 21:47:11.730 [main] EdurekaHome - exception encountered while clicking Testing object
+[INFO ] 2019-12-31 21:47:11.742 [main] EdurekaHome - exception encountered while navigating to testing blogs page
+[INFO ] 2019-12-31 21:47:31.941 [main] EdurekaHome - exception encountered while navigating to testing blogs page
+[INFO ] 2019-12-31 21:47:31.954 [main] EdurekaHome - exception encountered while scrolling down the selenium interview questions Blog
+[INFO ] 2019-12-31 21:48:11.444 [main] EdurekaHome - error going to 'Courses' drop-down
+[INFO ] 2019-12-31 21:48:11.467 [main] EdurekaHome - error clicking on 'MyClassroom' in'courses' drop-down
+[INFO ] 2019-12-31 21:48:11.490 [main] EdurekaHome - Click on community menu
+[INFO ] 2019-12-31 21:48:11.499 [main] EdurekaHome - error while clicking community menu'
+[INFO ] 2019-12-31 21:48:11.508 [main] EdurekaHome - error while clicking 'Blogs'
+[INFO ] 2019-12-31 21:48:11.516 [main] EdurekaHome - exception encountered while switching to pop up window
+[INFO ] 2019-12-31 21:48:11.522 [main] EdurekaHome - exception encountered while clicking Testing object
+[INFO ] 2019-12-31 21:48:11.527 [main] EdurekaHome - exception encountered while navigating to testing blogs page
+[INFO ] 2019-12-31 21:48:31.784 [main] EdurekaHome - exception encountered while navigating to testing blogs page
+[INFO ] 2019-12-31 21:48:31.797 [main] EdurekaHome - exception encountered while scrolling down the selenium interview questions Blog
+[INFO ] 2019-12-31 21:53:40.518 [main] EdurekaHome - error going to 'Courses' drop-down
+[INFO ] 2019-12-31 21:53:50.567 [main] EdurekaHome - error clicking on 'MyClassroom' in'courses' drop-down
+[INFO ] 2019-12-31 21:53:50.578 [main] EdurekaHome - navigated to incorrect page
+[INFO ] 2019-12-31 21:53:50.616 [main] EdurekaHome - you have enrolled in a course
+[INFO ] 2019-12-31 21:54:00.687 [main] EdurekaHome - error going to 'All Courses' page
+[INFO ] 2019-12-31 21:54:10.753 [main] EdurekaHome - error clicking on 'Job Role '  Filter
+[INFO ] 2019-12-31 21:54:20.849 [main] EdurekaHome - error selecting job role type radio button in 'Job Role' filter
+[INFO ] 2019-12-31 21:54:30.927 [main] EdurekaHome - error clicking on 'Other Filters'  Filter
+[INFO ] 2019-12-31 21:54:34.642 [main] EdurekaHome - error selecting batch type in 'Other Filters' drop-down
+[INFO ] 2019-12-31 21:54:34.654 [main] EdurekaHome - error scrolling down to Selenium Course
+[INFO ] 2019-12-31 21:54:34.661 [main] EdurekaHome - Click on community menu
+[INFO ] 2019-12-31 21:54:34.679 [main] EdurekaHome - error while clicking community menu'
+[INFO ] 2019-12-31 21:54:34.689 [main] EdurekaHome - error while clicking 'Blogs'
+[INFO ] 2019-12-31 21:54:34.701 [main] EdurekaHome - exception encountered while switching to pop up window
+[INFO ] 2019-12-31 21:54:34.709 [main] EdurekaHome - exception encountered while clicking Testing object
+[INFO ] 2019-12-31 21:54:34.722 [main] EdurekaHome - exception encountered while navigating to testing blogs page
+[INFO ] 2019-12-31 21:54:54.825 [main] EdurekaHome - exception encountered while navigating to testing blogs page
+[INFO ] 2019-12-31 21:54:54.842 [main] EdurekaHome - exception encountered while scrolling down the selenium interview questions Blog
+[INFO ] 2019-12-31 22:00:11.380 [main] EdurekaHome - error going to 'Courses' drop-down
+[INFO ] 2019-12-31 22:00:21.446 [main] EdurekaHome - error clicking on 'MyClassroom' in'courses' drop-down
+[INFO ] 2019-12-31 22:00:21.463 [main] EdurekaHome - navigated to incorrect page
+[INFO ] 2019-12-31 22:00:21.502 [main] EdurekaHome - you have enrolled in a course
+[INFO ] 2019-12-31 22:00:31.586 [main] EdurekaHome - error going to 'All Courses' page
+[INFO ] 2019-12-31 22:00:41.654 [main] EdurekaHome - error clicking on 'Job Role '  Filter
+[INFO ] 2019-12-31 22:00:43.496 [main] EdurekaHome - error selecting job role type radio button in 'Job Role' filter
+[INFO ] 2019-12-31 22:00:43.530 [main] EdurekaHome - error clicking on 'Other Filters'  Filter
+[INFO ] 2019-12-31 22:00:43.543 [main] EdurekaHome - error selecting batch type in 'Other Filters' drop-down
+[INFO ] 2019-12-31 22:00:43.574 [main] EdurekaHome - error scrolling down to Selenium Course
+[INFO ] 2019-12-31 22:00:43.581 [main] EdurekaHome - Click on community menu
+[INFO ] 2019-12-31 22:00:43.592 [main] EdurekaHome - error while clicking community menu'
+[INFO ] 2019-12-31 22:00:43.605 [main] EdurekaHome - error while clicking 'Blogs'
+[INFO ] 2019-12-31 22:00:43.611 [main] EdurekaHome - exception encountered while switching to pop up window
+[INFO ] 2019-12-31 22:00:43.616 [main] EdurekaHome - exception encountered while clicking Testing object
+[INFO ] 2019-12-31 22:00:43.633 [main] EdurekaHome - exception encountered while navigating to testing blogs page
+[INFO ] 2019-12-31 22:01:03.769 [main] EdurekaHome - exception encountered while navigating to testing blogs page
+[INFO ] 2019-12-31 22:01:03.780 [main] EdurekaHome - exception encountered while scrolling down the selenium interview questions Blog
+[INFO ] 2019-12-31 22:04:28.662 [main] EdurekaHome - error going to 'Courses' drop-down
+[INFO ] 2019-12-31 22:04:38.759 [main] EdurekaHome - error clicking on 'MyClassroom' in'courses' drop-down
+[INFO ] 2019-12-31 22:04:38.777 [main] EdurekaHome - navigated to incorrect page
+[INFO ] 2019-12-31 22:04:38.813 [main] EdurekaHome - you have enrolled in a course
+[INFO ] 2019-12-31 22:04:48.847 [main] EdurekaHome - error going to 'All Courses' page
+[INFO ] 2019-12-31 22:04:58.907 [main] EdurekaHome - error clicking on 'Job Role '  Filter
+[INFO ] 2019-12-31 22:05:08.999 [main] EdurekaHome - error selecting job role type radio button in 'Job Role' filter
+[INFO ] 2019-12-31 22:05:19.054 [main] EdurekaHome - error clicking on 'Other Filters'  Filter
+[INFO ] 2019-12-31 22:05:29.124 [main] EdurekaHome - error selecting batch type in 'Other Filters' drop-down
+[INFO ] 2019-12-31 22:05:39.254 [main] EdurekaHome - error scrolling down to Selenium Course
+[INFO ] 2019-12-31 22:05:39.274 [main] EdurekaHome - Click on community menu
+[INFO ] 2019-12-31 22:05:49.370 [main] EdurekaHome - error while clicking community menu'
+[INFO ] 2019-12-31 22:05:59.431 [main] EdurekaHome - error while clicking 'Blogs'
+[INFO ] 2019-12-31 22:05:59.509 [main] EdurekaHome - switched to pop up window
+[INFO ] 2019-12-31 22:06:09.743 [main] EdurekaHome - exception encountered while switching to pop up window
+[INFO ] 2019-12-31 22:06:19.837 [main] EdurekaHome - exception encountered while clicking Testing object
+[INFO ] 2019-12-31 22:06:19.840 [main] EdurekaHome - error navigating to Testing blogs page
+[INFO ] 2019-12-31 22:06:28.038 [main] EdurekaHome - Edureka1234
+[INFO ] 2019-12-31 22:06:28.319 [main] EdurekaHome - sud.v@hotmail.com
+[INFO ] 2019-12-31 22:06:28.696 [main] EdurekaHome - next login button clicked
+[INFO ] 2019-12-31 22:06:40.509 [main] EdurekaHome - exception encountered while navigating to testing blogs page
+[INFO ] 2019-12-31 22:06:50.564 [main] EdurekaHome - exception encountered while scrolling down the selenium interview questions Blog
+[INFO ] 2019-12-31 22:06:50.826 [main] EdurekaHome - closed blogs
+[INFO ] 2019-12-31 22:08:36.821 [main] EdurekaHome - error going to 'Courses' drop-down
+[INFO ] 2019-12-31 22:08:43.256 [main] EdurekaHome - error clicking on 'MyClassroom' in'courses' drop-down
+[INFO ] 2019-12-31 22:08:43.281 [main] EdurekaHome - Click on community menu
+[INFO ] 2019-12-31 22:08:43.294 [main] EdurekaHome - error while clicking community menu'
+[INFO ] 2019-12-31 22:08:43.320 [main] EdurekaHome - error while clicking 'Blogs'
+[INFO ] 2019-12-31 22:08:43.334 [main] EdurekaHome - exception encountered while switching to pop up window
+[INFO ] 2019-12-31 22:08:43.339 [main] EdurekaHome - exception encountered while clicking Testing object
+[INFO ] 2019-12-31 22:08:43.343 [main] EdurekaHome - exception encountered while navigating to testing blogs page
+[INFO ] 2019-12-31 22:09:03.387 [main] EdurekaHome - exception encountered while navigating to testing blogs page
+[INFO ] 2019-12-31 22:09:03.398 [main] EdurekaHome - exception encountered while scrolling down the selenium interview questions Blog
+[INFO ] 2019-12-31 22:09:40.551 [main] EdurekaHome - Edureka1234
+[INFO ] 2019-12-31 22:09:40.841 [main] EdurekaHome - sud.v@hotmail.com
+[INFO ] 2019-12-31 22:09:41.197 [main] EdurekaHome - next login button clicked
+[INFO ] 2019-12-31 22:11:49.768 [main] EdurekaHome - error going to 'Courses' drop-down
+[INFO ] 2019-12-31 22:11:59.880 [main] EdurekaHome - error clicking on 'MyClassroom' in'courses' drop-down
+[INFO ] 2019-12-31 22:11:59.918 [main] EdurekaHome - navigated to incorrect page
+[INFO ] 2019-12-31 22:12:09.996 [main] EdurekaHome - Click on community menu
+[INFO ] 2019-12-31 22:12:20.031 [main] EdurekaHome - error while clicking community menu'
+[INFO ] 2019-12-31 22:12:30.098 [main] EdurekaHome - error while clicking 'Blogs'
+[INFO ] 2019-12-31 22:12:30.148 [main] EdurekaHome - switched to pop up window
+[INFO ] 2019-12-31 22:12:40.266 [main] EdurekaHome - exception encountered while switching to pop up window
+[INFO ] 2019-12-31 22:12:50.304 [main] EdurekaHome - exception encountered while clicking Testing object
+[INFO ] 2019-12-31 22:12:50.332 [main] EdurekaHome - error navigating to Testing blogs page
+[INFO ] 2019-12-31 22:13:10.971 [main] EdurekaHome - exception encountered while navigating to testing blogs page
+[INFO ] 2019-12-31 22:13:21.007 [main] EdurekaHome - exception encountered while scrolling down the selenium interview questions Blog
+[INFO ] 2019-12-31 22:13:21.219 [main] EdurekaHome - closed blogs
+[INFO ] 2019-12-31 22:13:50.433 [main] EdurekaHome - Edureka1234
+[INFO ] 2019-12-31 22:13:50.718 [main] EdurekaHome - sud.v@hotmail.com
+[INFO ] 2019-12-31 22:13:51.084 [main] EdurekaHome - next login button clicked
+[INFO ] 2019-12-31 22:15:28.709 [main] EdurekaHome - error going to 'Courses' drop-down
+[INFO ] 2019-12-31 22:15:38.744 [main] EdurekaHome - error clicking on 'MyClassroom' in'courses' drop-down
+[INFO ] 2019-12-31 22:15:38.767 [main] EdurekaHome - navigated to incorrect page
+[INFO ] 2019-12-31 22:15:48.897 [main] EdurekaHome - Click on community menu
+[INFO ] 2019-12-31 22:15:59.001 [main] EdurekaHome - error while clicking community menu'
+[INFO ] 2019-12-31 22:16:09.094 [main] EdurekaHome - error while clicking 'Blogs'
+[INFO ] 2019-12-31 22:16:09.145 [main] EdurekaHome - switched to pop up window
+[INFO ] 2019-12-31 22:16:11.739 [main] EdurekaHome - Edureka1234
+[INFO ] 2019-12-31 22:16:12.013 [main] EdurekaHome - sud.v@hotmail.com
+[INFO ] 2019-12-31 22:16:12.421 [main] EdurekaHome - next login button clicked
+[INFO ] 2019-12-31 22:16:19.269 [main] EdurekaHome - exception encountered while switching to pop up window
+[INFO ] 2019-12-31 22:16:29.333 [main] EdurekaHome - exception encountered while clicking Testing object
+[INFO ] 2019-12-31 22:16:29.359 [main] EdurekaHome - error navigating to Testing blogs page
+[INFO ] 2019-12-31 22:16:50.004 [main] EdurekaHome - exception encountered while navigating to testing blogs page
+[INFO ] 2019-12-31 22:17:00.045 [main] EdurekaHome - exception encountered while scrolling down the selenium interview questions Blog
+[INFO ] 2019-12-31 22:17:00.236 [main] EdurekaHome - closed blogs
+[INFO ] 2019-12-31 22:18:19.461 [main] EdurekaHome - error going to 'Courses' drop-down
+[INFO ] 2019-12-31 22:18:29.578 [main] EdurekaHome - error clicking on 'MyClassroom' in'courses' drop-down
+[INFO ] 2019-12-31 22:18:29.588 [main] EdurekaHome - navigated to incorrect page
+[INFO ] 2019-12-31 22:18:39.678 [main] EdurekaHome - Click on community menu
+[INFO ] 2019-12-31 22:18:49.763 [main] EdurekaHome - error while clicking community menu'
+[INFO ] 2019-12-31 22:18:59.861 [main] EdurekaHome - error while clicking 'Blogs'
+[INFO ] 2019-12-31 22:18:59.897 [main] EdurekaHome - switched to pop up window
+[INFO ] 2019-12-31 22:19:09.913 [main] EdurekaHome - exception encountered while switching to pop up window
+[INFO ] 2019-12-31 22:19:19.944 [main] EdurekaHome - exception encountered while clicking Testing object
+[INFO ] 2019-12-31 22:19:19.970 [main] EdurekaHome - error navigating to Testing blogs page
+[INFO ] 2019-12-31 22:19:40.400 [main] EdurekaHome - exception encountered while navigating to testing blogs page
+[INFO ] 2019-12-31 22:19:40.416 [main] EdurekaHome - exception encountered while scrolling down the selenium interview questions Blog
+[INFO ] 2019-12-31 22:20:00.319 [main] EdurekaHome - Edureka1234
+[INFO ] 2019-12-31 22:20:00.656 [main] EdurekaHome - sud.v@hotmail.com
+[INFO ] 2019-12-31 22:20:01.046 [main] EdurekaHome - next login button clicked
+[INFO ] 2019-12-31 22:20:04.010 [main] EdurekaHome - error going to 'Courses' drop-down
+[INFO ] 2019-12-31 22:20:04.018 [main] EdurekaHome - error clicking on 'MyClassroom' in'courses' drop-down
+[INFO ] 2019-12-31 22:20:04.035 [main] EdurekaHome - Click on community menu
+[INFO ] 2019-12-31 22:20:04.047 [main] EdurekaHome - error while clicking community menu'
+[INFO ] 2019-12-31 22:20:04.062 [main] EdurekaHome - error while clicking 'Blogs'
+[INFO ] 2019-12-31 22:20:04.076 [main] EdurekaHome - exception encountered while switching to pop up window
+[INFO ] 2019-12-31 22:20:04.087 [main] EdurekaHome - exception encountered while clicking Testing object
+[INFO ] 2019-12-31 22:20:04.094 [main] EdurekaHome - exception encountered while navigating to testing blogs page
+[INFO ] 2019-12-31 22:20:24.201 [main] EdurekaHome - exception encountered while navigating to testing blogs page
+[INFO ] 2019-12-31 22:20:24.218 [main] EdurekaHome - exception encountered while scrolling down the selenium interview questions Blog
+[INFO ] 2019-12-31 22:20:35.565 [main] EdurekaHome - Edureka1234
+[INFO ] 2019-12-31 22:20:35.811 [main] EdurekaHome - sud.v@hotmail.com
+[INFO ] 2019-12-31 22:20:36.162 [main] EdurekaHome - next login button clicked
+[INFO ] 2019-12-31 22:21:27.543 [main] EdurekaHome - clicked 'Courses' drop-down
+[INFO ] 2019-12-31 22:21:27.913 [main] EdurekaHome - clicked on 'MyClassroom' in'courses' drop-down
+[INFO ] 2019-12-31 22:21:28.098 [main] EdurekaHome - navigated to 'My classrom'
+[INFO ] 2019-12-31 22:21:28.120 [main] EdurekaHome - you have enrolled in a course
+[INFO ] 2019-12-31 22:21:32.676 [main] EdurekaHome - clicked on 'All Courses' page
+[INFO ] 2019-12-31 22:21:32.944 [main] EdurekaHome - selected 'Job Role '  Filter
+[INFO ] 2019-12-31 22:21:33.749 [main] EdurekaHome - entered the text 'automation' in search box
+[INFO ] 2019-12-31 22:21:34.099 [main] EdurekaHome - selected Test Automation Engineer 
+[INFO ] 2019-12-31 22:21:34.310 [main] EdurekaHome - clicked on 'Other Filters' 
+[INFO ] 2019-12-31 22:21:34.484 [main] EdurekaHome - batch type 'Weekend' in 'Other Filters' drop-down selected
+[INFO ] 2019-12-31 22:21:34.655 [main] EdurekaHome - 'Apply' button clicked
+[INFO ] 2019-12-31 22:21:41.211 [main] EdurekaHome - scrolled down to view Selenium course
+[INFO ] 2019-12-31 22:21:41.217 [main] EdurekaHome - Click on community menu
+[INFO ] 2019-12-31 22:21:42.614 [main] EdurekaHome - Click on Blogs menu
+[INFO ] 2019-12-31 22:21:42.676 [main] EdurekaHome - switched to pop up window
+[INFO ] 2019-12-31 22:21:52.759 [main] EdurekaHome - exception encountered while switching to pop up window
+[INFO ] 2019-12-31 22:22:02.793 [main] EdurekaHome - exception encountered while clicking Testing object
+[INFO ] 2019-12-31 22:22:02.809 [main] EdurekaHome - error navigating to Testing blogs page
+[INFO ] 2019-12-31 22:22:23.080 [main] EdurekaHome - exception encountered while navigating to testing blogs page
+[INFO ] 2019-12-31 22:22:23.090 [main] EdurekaHome - exception encountered while scrolling down the selenium interview questions Blog
